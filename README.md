@@ -1,4 +1,5 @@
-![[Pasted image 20230222113946.png]]
+
+![1171011_6nRrCufs](https://user-images.githubusercontent.com/71222764/220613592-3a354fd7-e3b4-4316-b1ac-8c0c3ad96a4a.png)
 
 ### Who am I?
 I am programmer and Linux user who lives on the internet, who is called Isabel.
@@ -16,5 +17,5 @@ I am programmer and Linux user who lives on the internet, who is called Isabel.
 	- Obsidian (note taking)
 
 ### Where can you find me?
-[My website](https://isabelroses.live)
+[My website](https://isabelroses.live) <br>
 [My blog](https://blog.isabelroses.live)
