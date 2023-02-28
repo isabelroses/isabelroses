@@ -22,4 +22,6 @@ Good Question. Just call me Isabel.
 - [My blog](https://blog.isabelroses.live)
 
 ### Stats:
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=isabelroses&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelroses&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true" />
+</a></p>
