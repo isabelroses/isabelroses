@@ -19,9 +19,8 @@ Good Question. Just call me Isabel.
 	- Obsidian (note taking)
 
 ### How to reach me:
-- [My Link](https://isabel.contact)
-- [My website](https://isabelroses.com)
-- [My blog](https://blog.isabelroses.com)
+- [My Links](https://isabel.contact)
+- [My website](https://isabelroses.com) WIP
 
 ### Stats:
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=isabelroses&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
