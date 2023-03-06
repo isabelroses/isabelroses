@@ -4,6 +4,7 @@ Good Question. Just call me Isabel.
 ### My latest projects
 - [isabelroses/dotfiles-hypr](https://github.com/isabelroses/dotfiles-hypr)
 - [isabelroses/freshrss](https://github.com/isabelroses/freshrss)
+- [isabelroses/youtube](https://github.com/isabelroses/youtube)
 - [isabelroses/isabel.contact](https://github.com/isabelroses/isabel.contact)
 
 ### Daily Drivers:
