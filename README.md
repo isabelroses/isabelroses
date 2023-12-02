@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Isabel
 
-I am currently studying computer science, as a first year student at Aberystwyth University. I am interested in web development, and am currently learning Vue JS. Furthermore, I am also currently into the rust programming language, and I am learning it in my spare time and in the remaining time I work on [catppuccin](https://github.com/catppuccin/catppuccin).
+I am currently studying computer science, as a first year student at Aberystwyth University. I am interested in web development, and am currently learning Vue JS. Furthermore, I am also currently into the rust programming language, and I am learning it in my spare time and in the remaining time I work on [Catppuccin](https://github.com/catppuccin/catppuccin).
 
 ### 📧 You can reach me at
 
