@@ -6,7 +6,7 @@ I am currently studying computer science, as a first year student at Aberystwyth
 
 * [Quick Contact](https://isabel.contact)
 * [My website](https://isabelroses.com) | [Blog](https://isabelroses.com/blog)
-* Discord `isabelroses`
+* Discord [`isabelroses`](https://discord.gg/8RVhHeJH3x)
 * Email me@isabelroses.com
 
 ### 📊 My GitHub Stats <!--{ fold() }-->
