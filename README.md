@@ -9,7 +9,7 @@ P.S. Never ask me what's on my todo list, it's always too long.
 * [Quick Contact](https://isabel.contact)
 * [My website](https://isabelroses.com) | [Blog](https://isabelroses.com/blog)
 * Discord [`isabelroses`](https://discord.gg/8RVhHeJH3x), this is a link to a server
-* Fedi [`@isabel@akko.isabelroses.com`](https://akko.isabelroses.com/@isabel)
+* Fedi [`@isabel@akko.isabelroses.com`](https://akko.isabelroses.com/isabel)
 * Email `me [at] isabelroses [dot] com`
 
 ### 📊 My GitHub Stats
