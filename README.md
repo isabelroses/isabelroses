@@ -15,7 +15,3 @@ P.S. Never ask me what's on my todo list, it's always too long.
 ### 📊 My GitHub Stats
 
 ![gh-stats](https://github-readme-stats-one-bice.vercel.app/api?username=isabelroses&include_all_commits=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=313244&role=OWNER,ORGANIZATION_MEMBER)
-
-
-```math
-\ce{$\unicode[font-family: system-ui; pointer-events: none; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.15; background: url('https://raw.githubusercontent.com/isabelroses/isabelroses/main/uwunix.svg'); background-size: 900px; background-position: center;]{x0000}$}
