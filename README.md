@@ -2,7 +2,7 @@
 
 I am currently studying computer science, as a second year student at Aberystwyth University. I am interested in terminal, and am currently learning go. Furthermore, I am also currently obssessed with nix, and the rest of my spare time I work on [Catppuccin](https://github.com/catppuccin/catppuccin).
 
-P.S. Never ask me what's on my todo list, it's always too long.
+P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github.com/comfysage)
 
 ### 📧 You can reach me at
 
