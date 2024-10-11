@@ -1,6 +1,7 @@
 ### 👋 Hello, I'm Isabel
 
-I am currently studying computer science, as a second year student at Aberystwyth University. I am interested in terminal, and am currently learning go. Furthermore, I am also currently obssessed with nix, and the rest of my spare time I work on [Catppuccin](https://github.com/catppuccin/catppuccin).
+I am currently studying computer science, as a second year student at Aberystwyth University. My main interests are in terminal shown by my obsession with nix. Furthermore I am currently learning the programming language golang.
+What do I do with some of my spare time? Well I contribute to a awesome project [Catppuccin](https://github.com/catppuccin/catppuccin).
 
 P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github.com/comfysage)
 
