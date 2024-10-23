@@ -1,1 +1,0 @@
-{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI am currently studying computer science, as a first year student at Aberystwyth University.\\E$"}

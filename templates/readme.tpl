@@ -13,6 +13,32 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 * Fedi [`@isabel@akko.isabelroses.com`](https://akko.isabelroses.com/isabel)
 * Email `me [at] isabelroses [dot] com`
 
+### Other cool things I get up to
+
+#### 👷 What am I working on:
+
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 📚 My recent blog posts
+{{range rss "https://isabelroses.com/rss.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+#### 🌱 My latest projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### ⭐ Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .StarredAt}}) - {{.Repo.Description}}
+{{- end}}
+
+
 ### 📊 My GitHub Stats
 
 ![gh-stats](https://github-readme-stats-one-bice.vercel.app/api?username=isabelroses&include_all_commits=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=313244&role=OWNER,ORGANIZATION_MEMBER)
+
+
