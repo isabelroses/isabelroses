@@ -22,7 +22,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 {{- end}}
 
 #### 📚 My recent blog posts
-{{range rss "https://isabelroses.com/rss.xml" 5}}
+{{range rss "https://isabelroses.com/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
