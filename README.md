@@ -19,9 +19,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
 - [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) - A wrapper for charm&#39;s freeze cli tool for usage in neovim (4 days ago)
 
 #### 📚 My recent blog posts
