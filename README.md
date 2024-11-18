@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
+- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -34,11 +34,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### 🌱 My latest projects
 
+- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) - 
 - [isabelroses/pride](https://github.com/isabelroses/pride) - 
 - [isabelroses/memes](https://github.com/isabelroses/memes) - 
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) - 
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) - 
-- [isabelroses/snippets](https://github.com/isabelroses/snippets) - 
 
 #### ⭐ Recent Stars
 
