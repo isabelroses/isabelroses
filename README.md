@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [xataio/pgroll](https://github.com/xataio/pgroll) (today) - PostgreSQL zero-downtime migrations made easy
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) (2 days ago) - Kanidm: A simple, secure, and fast identity management platform
+- [xataio/pgroll](https://github.com/xataio/pgroll) (1 day ago) - PostgreSQL zero-downtime migrations made easy
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) (3 days ago) - Kanidm: A simple, secure, and fast identity management platform
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) (1 week ago) - A fully programmable Wayland Compositor
 - [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) (1 week ago) - 
 - [michidk/rost](https://github.com/michidk/rost) (1 week ago) - Rust programming in German.
