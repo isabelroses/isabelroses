@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations (1 day ago)
+- [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [xataio/pgroll](https://github.com/xataio/pgroll) (1 day ago) - PostgreSQL zero-downtime migrations made easy
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) (3 days ago) - Kanidm: A simple, secure, and fast identity management platform
+- [xataio/pgroll](https://github.com/xataio/pgroll) (2 days ago) - PostgreSQL zero-downtime migrations made easy
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) (4 days ago) - Kanidm: A simple, secure, and fast identity management platform
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) (1 week ago) - A fully programmable Wayland Compositor
 - [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) (1 week ago) - 
 - [michidk/rost](https://github.com/michidk/rost) (1 week ago) - Rust programming in German.
