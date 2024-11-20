@@ -19,9 +19,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations (1 day ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (1 day ago)
 
 #### 📚 My recent blog posts
