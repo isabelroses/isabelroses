@@ -18,16 +18,16 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles (1 day ago)
 
 #### 📚 My recent blog posts
 
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (5 months ago)
-- [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (5 months ago)
+- [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (6 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (7 months ago)
 - [My Journey So Far](https://isabelroses.com/blog/my-journey-so-far-5) (9 months ago)
 - [2023 Wrapped](https://isabelroses.com/blog/2023-wrapped-4) (10 months ago)
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [xataio/pgroll](https://github.com/xataio/pgroll) (2 days ago) - PostgreSQL zero-downtime migrations made easy
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) (4 days ago) - Kanidm: A simple, secure, and fast identity management platform
+- [xataio/pgroll](https://github.com/xataio/pgroll) (3 days ago) - PostgreSQL zero-downtime migrations made easy
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) (5 days ago) - Kanidm: A simple, secure, and fast identity management platform
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) (1 week ago) - A fully programmable Wayland Compositor
 - [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) (1 week ago) - 
 - [michidk/rost](https://github.com/michidk/rost) (1 week ago) - Rust programming in German.
