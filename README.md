@@ -20,8 +20,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles (1 day ago)
 
 #### 📚 My recent blog posts
