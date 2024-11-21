@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) (today) - A Git-compatible VCS that is both simple and powerful
 - [xataio/pgroll](https://github.com/xataio/pgroll) (3 days ago) - PostgreSQL zero-downtime migrations made easy
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) (5 days ago) - Kanidm: A simple, secure, and fast identity management platform
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) (1 week ago) - A fully programmable Wayland Compositor
 - [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) (1 week ago) - 
-- [michidk/rost](https://github.com/michidk/rost) (1 week ago) - Rust programming in German.
 
 
 ### 📊 My GitHub Stats
