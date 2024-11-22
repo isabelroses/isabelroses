@@ -18,8 +18,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
 - [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (1 day ago)
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles (2 days ago)
