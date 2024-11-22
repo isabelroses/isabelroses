@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (1 day ago)
+- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [martinvonz/jj](https://github.com/martinvonz/jj) (today) - A Git-compatible VCS that is both simple and powerful
-- [xataio/pgroll](https://github.com/xataio/pgroll) (3 days ago) - PostgreSQL zero-downtime migrations made easy
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) (5 days ago) - Kanidm: A simple, secure, and fast identity management platform
+- [martinvonz/jj](https://github.com/martinvonz/jj) (1 day ago) - A Git-compatible VCS that is both simple and powerful
+- [xataio/pgroll](https://github.com/xataio/pgroll) (4 days ago) - PostgreSQL zero-downtime migrations made easy
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) (6 days ago) - Kanidm: A simple, secure, and fast identity management platform
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) (1 week ago) - A fully programmable Wayland Compositor
 - [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) (1 week ago) - 
 
