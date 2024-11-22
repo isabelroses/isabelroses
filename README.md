@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (today) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
+- [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) (today) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [martinvonz/jj](https://github.com/martinvonz/jj) (1 day ago) - A Git-compatible VCS that is both simple and powerful
 - [xataio/pgroll](https://github.com/xataio/pgroll) (4 days ago) - PostgreSQL zero-downtime migrations made easy
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) (6 days ago) - Kanidm: A simple, secure, and fast identity management platform
-- [buffet/kiwmi](https://github.com/buffet/kiwmi) (1 week ago) - A fully programmable Wayland Compositor
-- [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) (1 week ago) - 
 
 
 ### 📊 My GitHub Stats
