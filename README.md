@@ -18,17 +18,17 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [catppuccin/whiskers](https://github.com/catppuccin/whiskers) - 😾 Soothing port creation tool for the high-spirited! (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
+- [catppuccin/whiskers](https://github.com/catppuccin/whiskers) - 😾 Soothing port creation tool for the high-spirited! (1 day ago)
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (5 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (6 months ago)
-- [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (7 months ago)
+- [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (8 months ago)
 - [My Journey So Far](https://isabelroses.com/blog/my-journey-so-far-5) (10 months ago)
 - [2023 Wrapped](https://isabelroses.com/blog/2023-wrapped-4) (10 months ago)
 
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (1 day ago) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
-- [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) (1 day ago) - CommonMark compliant markdown parser in Rust with ASTs and extensions
-- [martinvonz/jj](https://github.com/martinvonz/jj) (2 days ago) - A Git-compatible VCS that is both simple and powerful
-- [xataio/pgroll](https://github.com/xataio/pgroll) (5 days ago) - PostgreSQL zero-downtime migrations made easy
+- [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (2 days ago) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
+- [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) (2 days ago) - CommonMark compliant markdown parser in Rust with ASTs and extensions
+- [martinvonz/jj](https://github.com/martinvonz/jj) (3 days ago) - A Git-compatible VCS that is both simple and powerful
+- [xataio/pgroll](https://github.com/xataio/pgroll) (6 days ago) - PostgreSQL zero-downtime migrations made easy
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) (1 week ago) - Kanidm: A simple, secure, and fast identity management platform
 
 
