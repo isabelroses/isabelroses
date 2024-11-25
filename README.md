@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [utdemir/nix-tree](https://github.com/utdemir/nix-tree) (today) - Interactively browse dependency graphs of Nix derivations.
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (3 days ago) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) (3 days ago) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [martinvonz/jj](https://github.com/martinvonz/jj) (4 days ago) - A Git-compatible VCS that is both simple and powerful
 - [xataio/pgroll](https://github.com/xataio/pgroll) (1 week ago) - PostgreSQL zero-downtime migrations made easy
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) (1 week ago) - Kanidm: A simple, secure, and fast identity management platform
 
 
 ### 📊 My GitHub Stats
