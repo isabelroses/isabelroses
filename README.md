@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (2 days ago)
-- [catppuccin/whiskers](https://github.com/catppuccin/whiskers) - 😾 Soothing port creation tool for the high-spirited! (2 days ago)
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (3 days ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (3 days ago)
+- [catppuccin/whiskers](https://github.com/catppuccin/whiskers) - 😾 Soothing port creation tool for the high-spirited! (3 days ago)
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (4 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [utdemir/nix-tree](https://github.com/utdemir/nix-tree) (today) - Interactively browse dependency graphs of Nix derivations.
-- [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (3 days ago) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
-- [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) (3 days ago) - CommonMark compliant markdown parser in Rust with ASTs and extensions
-- [martinvonz/jj](https://github.com/martinvonz/jj) (4 days ago) - A Git-compatible VCS that is both simple and powerful
+- [utdemir/nix-tree](https://github.com/utdemir/nix-tree) (1 day ago) - Interactively browse dependency graphs of Nix derivations.
+- [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (4 days ago) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
+- [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) (4 days ago) - CommonMark compliant markdown parser in Rust with ASTs and extensions
+- [martinvonz/jj](https://github.com/martinvonz/jj) (5 days ago) - A Git-compatible VCS that is both simple and powerful
 - [xataio/pgroll](https://github.com/xataio/pgroll) (1 week ago) - PostgreSQL zero-downtime migrations made easy
 
 
