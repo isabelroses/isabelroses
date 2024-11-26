@@ -19,7 +19,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (3 days ago)
 - [catppuccin/whiskers](https://github.com/catppuccin/whiskers) - 😾 Soothing port creation tool for the high-spirited! (3 days ago)
 - [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (4 days ago)
