@@ -20,8 +20,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
 - [catppuccin/whiskers](https://github.com/catppuccin/whiskers) - 😾 Soothing port creation tool for the high-spirited! (5 days ago)
 
 #### 📚 My recent blog posts
