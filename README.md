@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) (today) - A fast semantic linter for Nix using tree-sitter 🌳 &#43; ❄️. [maintainers=@Artturin,@siraben]
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) (6 days ago) - Interactively browse dependency graphs of Nix derivations.
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (1 week ago) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) (1 week ago) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [martinvonz/jj](https://github.com/martinvonz/jj) (1 week ago) - A Git-compatible VCS that is both simple and powerful
-- [xataio/pgroll](https://github.com/xataio/pgroll) (1 week ago) - PostgreSQL zero-downtime migrations made easy
 
 
 ### 📊 My GitHub Stats
