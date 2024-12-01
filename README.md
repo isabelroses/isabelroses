@@ -19,9 +19,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
+- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (4 days ago)
 
 #### 📚 My recent blog posts
