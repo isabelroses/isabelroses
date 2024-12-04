@@ -18,10 +18,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (1 day ago)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
 
 #### 📚 My recent blog posts
@@ -42,7 +42,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (1 day ago) - 📁 A respectful implementation of user directories for Rust
+- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (1 day ago) - 📁 A respectful, XDG-first user directories implementation for obtaining the home, cache, config, data, runtime, and state directories
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) (3 days ago) - A fast semantic linter for Nix using tree-sitter 🌳 &#43; ❄️. [maintainers=@Artturin,@siraben]
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) (1 week ago) - Interactively browse dependency graphs of Nix derivations.
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (1 week ago) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
