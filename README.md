@@ -18,15 +18,15 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
 
 #### 📚 My recent blog posts
 
-- [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (5 months ago)
+- [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (6 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (6 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (8 months ago)
 - [My Journey So Far](https://isabelroses.com/blog/my-journey-so-far-5) (10 months ago)
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (today) - 📁 A respectful implementation of user directories for Rust
-- [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) (2 days ago) - A fast semantic linter for Nix using tree-sitter 🌳 &#43; ❄️. [maintainers=@Artturin,@siraben]
+- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (1 day ago) - 📁 A respectful implementation of user directories for Rust
+- [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) (3 days ago) - A fast semantic linter for Nix using tree-sitter 🌳 &#43; ❄️. [maintainers=@Artturin,@siraben]
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) (1 week ago) - Interactively browse dependency graphs of Nix derivations.
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) (1 week ago) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) (1 week ago) - CommonMark compliant markdown parser in Rust with ASTs and extensions
