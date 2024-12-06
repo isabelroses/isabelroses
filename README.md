@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (today) - Hidden accounts unfollow tool for Bluesky
 - [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (2 days ago) - show your bluesky year in review. WIP.
 - [nexxeln/yugen](https://github.com/nexxeln/yugen) (2 days ago) - regex obfuscator
 - [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (3 days ago) - 📁 A respectful, XDG-first user directories implementation for obtaining the home, cache, config, data, runtime, and state directories
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) (5 days ago) - A fast semantic linter for Nix using tree-sitter 🌳 &#43; ❄️. [maintainers=@Artturin,@siraben]
-- [utdemir/nix-tree](https://github.com/utdemir/nix-tree) (1 week ago) - Interactively browse dependency graphs of Nix derivations.
 
 
 ### 📊 My GitHub Stats
