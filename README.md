@@ -19,10 +19,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (1 day ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (2 days ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (3 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (today) - Hidden accounts unfollow tool for Bluesky
-- [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (2 days ago) - show your bluesky year in review. WIP.
-- [nexxeln/yugen](https://github.com/nexxeln/yugen) (2 days ago) - regex obfuscator
-- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (3 days ago) - 📁 A respectful, XDG-first user directories implementation for obtaining the home, cache, config, data, runtime, and state directories
-- [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) (5 days ago) - A fast semantic linter for Nix using tree-sitter 🌳 &#43; ❄️. [maintainers=@Artturin,@siraben]
+- [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (1 day ago) - Hidden accounts unfollow tool for Bluesky
+- [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (3 days ago) - show your bluesky year in review. WIP.
+- [nexxeln/yugen](https://github.com/nexxeln/yugen) (3 days ago) - regex obfuscator
+- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (4 days ago) - 📁 A respectful, XDG-first user directories implementation for obtaining the home, cache, config, data, runtime, and state directories
+- [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) (6 days ago) - A fast semantic linter for Nix using tree-sitter 🌳 &#43; ❄️. [maintainers=@Artturin,@siraben]
 
 
 ### 📊 My GitHub Stats
