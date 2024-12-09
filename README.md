@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (today)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (4 days ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (5 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (today) - 
-- [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (2 days ago) - Hidden accounts unfollow tool for Bluesky
-- [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (4 days ago) - show your bluesky year in review. WIP.
-- [nexxeln/yugen](https://github.com/nexxeln/yugen) (4 days ago) - regex obfuscator
-- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (5 days ago) - 📁 A respectful, XDG-first user directories implementation for obtaining the home, cache, config, data, runtime, and state directories
+- [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (1 day ago) - 
+- [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (3 days ago) - Hidden accounts unfollow tool for Bluesky
+- [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (5 days ago) - show your bluesky year in review. WIP.
+- [nexxeln/yugen](https://github.com/nexxeln/yugen) (5 days ago) - regex obfuscator
+- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (6 days ago) - 📁 A respectful, XDG-first user directories implementation for obtaining the home, cache, config, data, runtime, and state directories
 
 
 ### 📊 My GitHub Stats
