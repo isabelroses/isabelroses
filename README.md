@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [openstyles/stylus](https://github.com/openstyles/stylus) (today) - Stylus - Userstyles Manager
 - [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (1 day ago) - 
 - [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (3 days ago) - Hidden accounts unfollow tool for Bluesky
 - [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (5 days ago) - show your bluesky year in review. WIP.
 - [nexxeln/yugen](https://github.com/nexxeln/yugen) (5 days ago) - regex obfuscator
-- [uncenter/user_dirs](https://github.com/uncenter/user_dirs) (6 days ago) - 📁 A respectful, XDG-first user directories implementation for obtaining the home, cache, config, data, runtime, and state directories
 
 
 ### 📊 My GitHub Stats
