@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (1 day ago)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [openstyles/stylus](https://github.com/openstyles/stylus) (today) - Stylus - Userstyles Manager
-- [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (1 day ago) - 
-- [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (3 days ago) - Hidden accounts unfollow tool for Bluesky
-- [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (5 days ago) - show your bluesky year in review. WIP.
-- [nexxeln/yugen](https://github.com/nexxeln/yugen) (5 days ago) - regex obfuscator
+- [openstyles/stylus](https://github.com/openstyles/stylus) (1 day ago) - Stylus - Userstyles Manager
+- [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (2 days ago) - 
+- [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (4 days ago) - Hidden accounts unfollow tool for Bluesky
+- [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (6 days ago) - show your bluesky year in review. WIP.
+- [nexxeln/yugen](https://github.com/nexxeln/yugen) (6 days ago) - regex obfuscator
 
 
 ### 📊 My GitHub Stats
