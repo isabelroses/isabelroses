@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (today) - orangc&#39;s catppuccin wallpaper repository.
 - [openstyles/stylus](https://github.com/openstyles/stylus) (6 days ago) - Stylus - Userstyles Manager
 - [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (1 week ago) - 
 - [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (1 week ago) - Hidden accounts unfollow tool for Bluesky
 - [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (1 week ago) - show your bluesky year in review. WIP.
-- [nexxeln/yugen](https://github.com/nexxeln/yugen) (1 week ago) - regex obfuscator
 
 
 ### 📊 My GitHub Stats
