@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (3 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [openstyles/stylus](https://github.com/openstyles/stylus) (5 days ago) - Stylus - Userstyles Manager
-- [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (6 days ago) - 
+- [openstyles/stylus](https://github.com/openstyles/stylus) (6 days ago) - Stylus - Userstyles Manager
+- [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (1 week ago) - 
 - [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (1 week ago) - Hidden accounts unfollow tool for Bluesky
 - [flo-bit/bluesky-wrapped](https://github.com/flo-bit/bluesky-wrapped) (1 week ago) - show your bluesky year in review. WIP.
 - [nexxeln/yugen](https://github.com/nexxeln/yugen) (1 week ago) - regex obfuscator
