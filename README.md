@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (2 days ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (4 days ago)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (3 days ago)
+- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles (5 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,7 +42,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (1 day ago) - orangc&#39;s catppuccin wallpaper repository.
+- [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (2 days ago) - orangc&#39;s catppuccin wallpaper repository.
 - [openstyles/stylus](https://github.com/openstyles/stylus) (1 week ago) - Stylus - Userstyles Manager
 - [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (1 week ago) - 
 - [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (1 week ago) - Hidden accounts unfollow tool for Bluesky
