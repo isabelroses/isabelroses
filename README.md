@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (today) - A Catppuccin port for Adwaita
 - [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (today) - A simple feed parser (RSS, Atom, JSON Feed)
 - [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (3 days ago) - orangc&#39;s catppuccin wallpaper repository.
 - [openstyles/stylus](https://github.com/openstyles/stylus) (1 week ago) - Stylus - Userstyles Manager
 - [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (1 week ago) - 
-- [notjuliet/cleanfollow-bsky](https://github.com/notjuliet/cleanfollow-bsky) (1 week ago) - Hidden accounts unfollow tool for Bluesky
 
 
 ### 📊 My GitHub Stats
