@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (2 days ago)
+- [isabelroses/memes](https://github.com/isabelroses/memes) -  (today)
 
 #### 📚 My recent blog posts
 
