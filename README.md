@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (today)
-- [isabelroses/memes](https://github.com/isabelroses/memes) -  (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (today) - A Catppuccin port for Adwaita
-- [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (today) - A simple feed parser (RSS, Atom, JSON Feed)
-- [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (3 days ago) - orangc&#39;s catppuccin wallpaper repository.
+- [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (1 day ago) - A Catppuccin port for Adwaita
+- [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (1 day ago) - A simple feed parser (RSS, Atom, JSON Feed)
+- [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (4 days ago) - orangc&#39;s catppuccin wallpaper repository.
 - [openstyles/stylus](https://github.com/openstyles/stylus) (1 week ago) - Stylus - Userstyles Manager
 - [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (1 week ago) - 
 
