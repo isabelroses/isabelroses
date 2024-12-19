@@ -21,8 +21,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (1 day ago)
 
 #### 📚 My recent blog posts
 
