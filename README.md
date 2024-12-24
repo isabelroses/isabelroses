@@ -18,17 +18,17 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (3 days ago)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (2 days ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (4 days ago)
 
 #### 📚 My recent blog posts
 
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (6 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
-- [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (8 months ago)
+- [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (9 months ago)
 - [My Journey So Far](https://isabelroses.com/blog/my-journey-so-far-5) (11 months ago)
 - [2023 Wrapped](https://isabelroses.com/blog/2023-wrapped-4) (11 months ago)
 
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (5 days ago) - A Catppuccin port for Adwaita
-- [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (5 days ago) - A simple feed parser (RSS, Atom, JSON Feed)
+- [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (6 days ago) - A Catppuccin port for Adwaita
+- [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (6 days ago) - A simple feed parser (RSS, Atom, JSON Feed)
 - [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (1 week ago) - orangc&#39;s catppuccin wallpaper repository.
 - [openstyles/stylus](https://github.com/openstyles/stylus) (2 weeks ago) - Stylus - Userstyles Manager
 - [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (2 weeks ago) - 
