@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [TheFelidae/88x31](https://github.com/TheFelidae/88x31) (today) - A collection of 88x31 badges, for your enjoyment.
 - [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (6 days ago) - A Catppuccin port for Adwaita
 - [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (6 days ago) - A simple feed parser (RSS, Atom, JSON Feed)
 - [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (1 week ago) - orangc&#39;s catppuccin wallpaper repository.
 - [openstyles/stylus](https://github.com/openstyles/stylus) (2 weeks ago) - Stylus - Userstyles Manager
-- [Jovian-Experiments/steamos-efi](https://github.com/Jovian-Experiments/steamos-efi) (2 weeks ago) - 
 
 
 ### 📊 My GitHub Stats
