@@ -19,8 +19,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles (1 day ago)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (2 days ago)
 - [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (3 days ago)
 
