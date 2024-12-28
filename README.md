@@ -20,7 +20,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/memes](https://github.com/isabelroses/memes) -  (2 days ago)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (3 days ago)
 
