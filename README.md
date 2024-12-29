@@ -19,10 +19,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
 
 #### 📚 My recent blog posts
 
