@@ -19,9 +19,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations  (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera) - ⛩️ Tree-sitter grammar for the Tera templating language (1 day ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 - [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
 
 #### 📚 My recent blog posts
