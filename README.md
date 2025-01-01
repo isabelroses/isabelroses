@@ -26,11 +26,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### 📚 My recent blog posts
 
+- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (3 days ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (6 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (9 months ago)
 - [My Journey So Far](https://isabelroses.com/blog/my-journey-so-far-5) (11 months ago)
-- [2023 Wrapped](https://isabelroses.com/blog/2023-wrapped-4) (1 year ago)
 
 #### 🌱 My latest projects
 
