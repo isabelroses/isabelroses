@@ -18,10 +18,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (1 day ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
 
 #### 📚 My recent blog posts
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (today) - Performant, batteries-included completion plugin for Neovim 
 - [TheFelidae/88x31](https://github.com/TheFelidae/88x31) (1 week ago) - A collection of 88x31 badges, for your enjoyment.
 - [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (2 weeks ago) - A Catppuccin port for Adwaita
 - [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (2 weeks ago) - A simple feed parser (RSS, Atom, JSON Feed)
 - [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (2 weeks ago) - orangc&#39;s catppuccin wallpaper repository.
-- [openstyles/stylus](https://github.com/openstyles/stylus) (3 weeks ago) - Stylus - Userstyles Manager
 
 
 ### 📊 My GitHub Stats
