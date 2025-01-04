@@ -18,15 +18,15 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (1 day ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
 
 #### 📚 My recent blog posts
 
-- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (5 days ago)
+- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (6 days ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (9 months ago)
