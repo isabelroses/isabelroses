@@ -18,15 +18,15 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [uncenter/flake](https://github.com/uncenter/flake) - ❄️ Overcomplicated Nix system configurations. (today)
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [uncenter/flake](https://github.com/uncenter/flake) - ❄️ Overcomplicated Nix system configurations. (1 day ago)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
 
 #### 📚 My recent blog posts
 
-- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (6 days ago)
+- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 week ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (9 months ago)
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (today) - Performant, batteries-included completion plugin for Neovim 
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (1 day ago) - Performant, batteries-included completion plugin for Neovim 
 - [TheFelidae/88x31](https://github.com/TheFelidae/88x31) (1 week ago) - A collection of 88x31 badges, for your enjoyment.
 - [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (2 weeks ago) - A Catppuccin port for Adwaita
 - [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (2 weeks ago) - A simple feed parser (RSS, Atom, JSON Feed)
-- [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (2 weeks ago) - orangc&#39;s catppuccin wallpaper repository.
+- [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (3 weeks ago) - orangc&#39;s catppuccin wallpaper repository.
 
 
 ### 📊 My GitHub Stats
