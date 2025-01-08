@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
-- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
+- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (1 day ago)
-- [winkyfaceak/grade_cal](https://github.com/winkyfaceak/grade_cal) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
