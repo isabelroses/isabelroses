@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (today) - Calculates the time taken to read any text.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (5 days ago) - Performant, batteries-included completion plugin for Neovim 
 - [TheFelidae/88x31](https://github.com/TheFelidae/88x31) (2 weeks ago) - A collection of 88x31 badges, for your enjoyment.
 - [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (3 weeks ago) - A Catppuccin port for Adwaita
 - [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (3 weeks ago) - A simple feed parser (RSS, Atom, JSON Feed)
-- [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha) (3 weeks ago) - orangc&#39;s catppuccin wallpaper repository.
 
 
 ### 📊 My GitHub Stats
