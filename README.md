@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [byawitz/ggh](https://github.com/byawitz/ggh) (today) - Recall your SSH sessions (also search your SSH config file)
 - [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (1 day ago) - Calculates the time taken to read any text.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (6 days ago) - Performant, batteries-included completion plugin for Neovim 
 - [TheFelidae/88x31](https://github.com/TheFelidae/88x31) (2 weeks ago) - A collection of 88x31 badges, for your enjoyment.
 - [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (3 weeks ago) - A Catppuccin port for Adwaita
-- [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (3 weeks ago) - A simple feed parser (RSS, Atom, JSON Feed)
 
 
 ### 📊 My GitHub Stats
