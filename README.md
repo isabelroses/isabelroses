@@ -20,13 +20,13 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [isabelroses/beapkgs](https://github.com/isabelroses/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
 
 #### 📚 My recent blog posts
 
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (today)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (1 day ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 week ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (today) - Calculates the time taken to read any text.
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (5 days ago) - Performant, batteries-included completion plugin for Neovim 
+- [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (1 day ago) - Calculates the time taken to read any text.
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (6 days ago) - Performant, batteries-included completion plugin for Neovim 
 - [TheFelidae/88x31](https://github.com/TheFelidae/88x31) (2 weeks ago) - A collection of 88x31 badges, for your enjoyment.
 - [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (3 weeks ago) - A Catppuccin port for Adwaita
 - [feed-rs/feed-rs](https://github.com/feed-rs/feed-rs) (3 weeks ago) - A simple feed parser (RSS, Atom, JSON Feed)
