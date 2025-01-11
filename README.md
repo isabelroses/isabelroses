@@ -18,15 +18,15 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (2 days ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (3 days ago)
 
 #### 📚 My recent blog posts
 
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (1 day ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (2 days ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 week ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [byawitz/ggh](https://github.com/byawitz/ggh) (today) - Recall your SSH sessions (also search your SSH config file)
-- [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (1 day ago) - Calculates the time taken to read any text.
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (6 days ago) - Performant, batteries-included completion plugin for Neovim 
+- [byawitz/ggh](https://github.com/byawitz/ggh) (1 day ago) - Recall your SSH sessions (also search your SSH config file)
+- [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (2 days ago) - Calculates the time taken to read any text.
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (1 week ago) - Performant, batteries-included completion plugin for Neovim 
 - [TheFelidae/88x31](https://github.com/TheFelidae/88x31) (2 weeks ago) - A collection of 88x31 badges, for your enjoyment.
 - [claymorwan/adw-catppuccin](https://github.com/claymorwan/adw-catppuccin) (3 weeks ago) - A Catppuccin port for Adwaita
 
