@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (today) - Post-modern configuration management
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (today) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (1 day ago) - ⛅ Check the forecast for today&#39;s Nix builds
 - [byawitz/ggh](https://github.com/byawitz/ggh) (2 days ago) - Recall your SSH sessions (also search your SSH config file)
 - [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (3 days ago) - Calculates the time taken to read any text.
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (1 week ago) - Performant, batteries-included completion plugin for Neovim 
 
 
 ### 📊 My GitHub Stats
