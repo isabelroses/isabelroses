@@ -18,16 +18,16 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (2 days ago)
-- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 week ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (3 days ago)
+- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (2 weeks ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (9 months ago)
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (today) - ⛅ Check the forecast for today&#39;s Nix builds
-- [byawitz/ggh](https://github.com/byawitz/ggh) (1 day ago) - Recall your SSH sessions (also search your SSH config file)
-- [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (2 days ago) - Calculates the time taken to read any text.
+- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (1 day ago) - ⛅ Check the forecast for today&#39;s Nix builds
+- [byawitz/ggh](https://github.com/byawitz/ggh) (2 days ago) - Recall your SSH sessions (also search your SSH config file)
+- [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (3 days ago) - Calculates the time taken to read any text.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) (1 week ago) - Performant, batteries-included completion plugin for Neovim 
 - [TheFelidae/88x31](https://github.com/TheFelidae/88x31) (2 weeks ago) - A collection of 88x31 badges, for your enjoyment.
 
