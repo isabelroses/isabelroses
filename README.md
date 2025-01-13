@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [NuschtOS/search](https://github.com/NuschtOS/search) (today) - Simple and fast static-page NixOS option search
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (1 day ago) - Post-modern configuration management
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (1 day ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (2 days ago) - ⛅ Check the forecast for today&#39;s Nix builds
 - [byawitz/ggh](https://github.com/byawitz/ggh) (3 days ago) - Recall your SSH sessions (also search your SSH config file)
-- [karthik512/estimated_read_time](https://github.com/karthik512/estimated_read_time) (4 days ago) - Calculates the time taken to read any text.
 
 
 ### 📊 My GitHub Stats
