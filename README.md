@@ -18,15 +18,15 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
-- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (today)
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (1 day ago)
+- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
+- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (4 days ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (5 days ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (2 weeks ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [NuschtOS/search](https://github.com/NuschtOS/search) (today) - Simple and fast static-page NixOS option search
-- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (1 day ago) - Post-modern configuration management
-- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (1 day ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
-- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (2 days ago) - ⛅ Check the forecast for today&#39;s Nix builds
-- [byawitz/ggh](https://github.com/byawitz/ggh) (3 days ago) - Recall your SSH sessions (also search your SSH config file)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago) - Simple and fast static-page NixOS option search
+- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (2 days ago) - Post-modern configuration management
+- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (2 days ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
+- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (3 days ago) - ⛅ Check the forecast for today&#39;s Nix builds
+- [byawitz/ggh](https://github.com/byawitz/ggh) (4 days ago) - Recall your SSH sessions (also search your SSH config file)
 
 
 ### 📊 My GitHub Stats
