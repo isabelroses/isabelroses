@@ -19,8 +19,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (1 day ago)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
 - [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) -  (2 days ago)
 
