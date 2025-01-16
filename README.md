@@ -19,14 +19,14 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
 
 #### 📚 My recent blog posts
 
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (6 days ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (1 week ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (2 weeks ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago) - Simple and fast static-page NixOS option search
-- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (3 days ago) - Post-modern configuration management
-- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (3 days ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
-- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (4 days ago) - ⛅ Check the forecast for today&#39;s Nix builds
-- [byawitz/ggh](https://github.com/byawitz/ggh) (5 days ago) - Recall your SSH sessions (also search your SSH config file)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago) - Simple and fast static-page NixOS option search
+- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (4 days ago) - Post-modern configuration management
+- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (4 days ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
+- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (5 days ago) - ⛅ Check the forecast for today&#39;s Nix builds
+- [byawitz/ggh](https://github.com/byawitz/ggh) (6 days ago) - Recall your SSH sessions (also search your SSH config file)
 
 
 ### 📊 My GitHub Stats
