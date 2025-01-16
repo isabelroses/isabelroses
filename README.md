@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [ading2210/doompdf](https://github.com/ading2210/doompdf) (today) - A port of Doom (1993) that runs inside a PDF file
 - [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago) - Simple and fast static-page NixOS option search
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (4 days ago) - Post-modern configuration management
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (4 days ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (5 days ago) - ⛅ Check the forecast for today&#39;s Nix builds
-- [byawitz/ggh](https://github.com/byawitz/ggh) (6 days ago) - Recall your SSH sessions (also search your SSH config file)
 
 
 ### 📊 My GitHub Stats
