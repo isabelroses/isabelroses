@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
+- [luravoid/nixos-config](https://github.com/luravoid/nixos-config) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Setup a new Mac. (1 day ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
 
 #### 📚 My recent blog posts
 
