@@ -20,9 +20,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [ading2210/doompdf](https://github.com/ading2210/doompdf) (today) - A port of Doom (1993) that runs inside a PDF file
-- [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago) - Simple and fast static-page NixOS option search
-- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (4 days ago) - Post-modern configuration management
-- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (4 days ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
-- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (5 days ago) - ⛅ Check the forecast for today&#39;s Nix builds
+- [ading2210/doompdf](https://github.com/ading2210/doompdf) (1 day ago) - A port of Doom (1993) that runs inside a PDF file
+- [NuschtOS/search](https://github.com/NuschtOS/search) (4 days ago) - Simple and fast static-page NixOS option search
+- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (5 days ago) - Post-modern configuration management
+- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (5 days ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
+- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (6 days ago) - ⛅ Check the forecast for today&#39;s Nix builds
 
 
 ### 📊 My GitHub Stats
