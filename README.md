@@ -18,16 +18,16 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
-- [SapphicMoe/dotfiles](https://github.com/SapphicMoe/dotfiles) - ❄️ Dotfiles for our NixOS system configuration. (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
+- [SapphicMoe/dotfiles](https://github.com/SapphicMoe/dotfiles) - ❄️ Dotfiles for our NixOS system configuration. (2 days ago)
 
 #### 📚 My recent blog posts
 
 - [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (1 week ago)
-- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (2 weeks ago)
+- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (3 weeks ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (9 months ago)
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [ading2210/doompdf](https://github.com/ading2210/doompdf) (2 days ago) - A port of Doom (1993) that runs inside a PDF file
-- [NuschtOS/search](https://github.com/NuschtOS/search) (5 days ago) - Simple and fast static-page NixOS option search
-- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (6 days ago) - Post-modern configuration management
-- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (6 days ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
+- [ading2210/doompdf](https://github.com/ading2210/doompdf) (3 days ago) - A port of Doom (1993) that runs inside a PDF file
+- [NuschtOS/search](https://github.com/NuschtOS/search) (6 days ago) - Simple and fast static-page NixOS option search
+- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (1 week ago) - Post-modern configuration management
+- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) (1 week ago) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) (1 week ago) - ⛅ Check the forecast for today&#39;s Nix builds
 
 
