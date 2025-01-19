@@ -18,8 +18,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
 - [SapphicMoe/dotfiles](https://github.com/SapphicMoe/dotfiles) - ❄️ Dotfiles for our NixOS system configuration. (2 days ago)
