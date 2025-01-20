@@ -19,9 +19,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
 - [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
 
 #### 📚 My recent blog posts
@@ -29,7 +29,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disapointed-10) (1 week ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (3 weeks ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
-- [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (7 months ago)
+- [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (8 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (9 months ago)
 
 #### 🌱 My latest projects
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) (today) - CommonMark &#43; GFM compatible Markdown parser and renderer
-- [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) (today) - 
-- [ading2210/doompdf](https://github.com/ading2210/doompdf) (3 days ago) - A port of Doom (1993) that runs inside a PDF file
-- [NuschtOS/search](https://github.com/NuschtOS/search) (6 days ago) - Simple and fast static-page NixOS option search
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) (1 day ago) - CommonMark &#43; GFM compatible Markdown parser and renderer
+- [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) (1 day ago) - 
+- [ading2210/doompdf](https://github.com/ading2210/doompdf) (4 days ago) - A port of Doom (1993) that runs inside a PDF file
+- [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago) - Simple and fast static-page NixOS option search
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (1 week ago) - Post-modern configuration management
 
 
