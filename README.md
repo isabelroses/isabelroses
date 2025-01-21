@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [lexisother/dotfiles](https://github.com/lexisother/dotfiles) - My personal dotfiles. (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [lexisother/dotfiles](https://github.com/lexisother/dotfiles) - My personal dotfiles. (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) (1 day ago) - CommonMark &#43; GFM compatible Markdown parser and renderer
-- [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) (1 day ago) - 
-- [ading2210/doompdf](https://github.com/ading2210/doompdf) (4 days ago) - A port of Doom (1993) that runs inside a PDF file
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) (2 days ago) - CommonMark &#43; GFM compatible Markdown parser and renderer
+- [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) (2 days ago) - 
+- [ading2210/doompdf](https://github.com/ading2210/doompdf) (5 days ago) - A port of Doom (1993) that runs inside a PDF file
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago) - Simple and fast static-page NixOS option search
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) (1 week ago) - Post-modern configuration management
 
