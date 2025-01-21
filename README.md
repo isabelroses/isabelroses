@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [comfysage/site](https://github.com/comfysage/site) (today) - 
 - [connorskees/grass](https://github.com/connorskees/grass) (today) - A Sass compiler written purely in Rust
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) (2 days ago) - CommonMark &#43; GFM compatible Markdown parser and renderer
 - [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) (2 days ago) - 
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) (5 days ago) - A port of Doom (1993) that runs inside a PDF file
-- [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago) - Simple and fast static-page NixOS option search
 
 
 ### 📊 My GitHub Stats
