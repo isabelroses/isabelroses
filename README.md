@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (today) - An open-source network stresser tool but it&#39;s Hatsune Miku
 - [sugyan/tuisky](https://github.com/sugyan/tuisky) (today) - 
 - [comfysage/site](https://github.com/comfysage/site) (today) - 
 - [connorskees/grass](https://github.com/connorskees/grass) (today) - A Sass compiler written purely in Rust
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) (2 days ago) - CommonMark &#43; GFM compatible Markdown parser and renderer
-- [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) (2 days ago) - 
 
 
 ### 📊 My GitHub Stats
