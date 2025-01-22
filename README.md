@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (today) - 
-- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (today) - An open-source network stresser tool but it&#39;s Hatsune Miku
-- [sugyan/tuisky](https://github.com/sugyan/tuisky) (today) - 
-- [comfysage/site](https://github.com/comfysage/site) (today) - 
-- [connorskees/grass](https://github.com/connorskees/grass) (today) - A Sass compiler written purely in Rust
+- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (1 day ago) - 
+- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (1 day ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
+- [sugyan/tuisky](https://github.com/sugyan/tuisky) (1 day ago) - 
+- [comfysage/site](https://github.com/comfysage/site) (1 day ago) - 
+- [connorskees/grass](https://github.com/connorskees/grass) (1 day ago) - A Sass compiler written purely in Rust
 
 
 ### 📊 My GitHub Stats
