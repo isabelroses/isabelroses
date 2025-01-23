@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (today) - ❄️ Simplify Nix Flakes with the module system
 - [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (2 days ago) - 
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (2 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
 - [sugyan/tuisky](https://github.com/sugyan/tuisky) (2 days ago) - 
 - [comfysage/site](https://github.com/comfysage/site) (2 days ago) - 
-- [connorskees/grass](https://github.com/connorskees/grass) (2 days ago) - A Sass compiler written purely in Rust
 
 
 ### 📊 My GitHub Stats
