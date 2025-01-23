@@ -18,19 +18,19 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
 
 #### 📚 My recent blog posts
 
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (1 week ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (2 weeks ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (3 weeks ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (8 months ago)
-- [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (9 months ago)
+- [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (1 day ago) - 
-- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (1 day ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
-- [sugyan/tuisky](https://github.com/sugyan/tuisky) (1 day ago) - 
-- [comfysage/site](https://github.com/comfysage/site) (1 day ago) - 
-- [connorskees/grass](https://github.com/connorskees/grass) (1 day ago) - A Sass compiler written purely in Rust
+- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (2 days ago) - 
+- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (2 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
+- [sugyan/tuisky](https://github.com/sugyan/tuisky) (2 days ago) - 
+- [comfysage/site](https://github.com/comfysage/site) (2 days ago) - 
+- [connorskees/grass](https://github.com/connorskees/grass) (2 days ago) - A Sass compiler written purely in Rust
 
 
 ### 📊 My GitHub Stats
