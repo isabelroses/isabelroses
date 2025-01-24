@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (today) -  Apple-like smooth corners for Tailwind CSS.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (1 day ago) - ❄️ Simplify Nix Flakes with the module system
 - [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (3 days ago) - 
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (3 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
 - [sugyan/tuisky](https://github.com/sugyan/tuisky) (3 days ago) - 
-- [comfysage/site](https://github.com/comfysage/site) (3 days ago) - 
 
 
 ### 📊 My GitHub Stats
