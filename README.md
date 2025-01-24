@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (today) - ❄️ Simplify Nix Flakes with the module system
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (2 days ago) - 
-- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (2 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
-- [sugyan/tuisky](https://github.com/sugyan/tuisky) (2 days ago) - 
-- [comfysage/site](https://github.com/comfysage/site) (2 days ago) - 
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (1 day ago) - ❄️ Simplify Nix Flakes with the module system
+- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (3 days ago) - 
+- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (3 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
+- [sugyan/tuisky](https://github.com/sugyan/tuisky) (3 days ago) - 
+- [comfysage/site](https://github.com/comfysage/site) (3 days ago) - 
 
 
 ### 📊 My GitHub Stats
