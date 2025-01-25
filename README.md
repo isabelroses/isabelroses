@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (today) - 
 - [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (today) - 
 - [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (1 day ago) -  Apple-like smooth corners for Tailwind CSS.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (2 days ago) - ❄️ Simplify Nix Flakes with the module system
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (4 days ago) - 
-- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (4 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
 
 
 ### 📊 My GitHub Stats
