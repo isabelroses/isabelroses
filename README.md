@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/NS_Store](https://github.com/isabelroses/NS_Store) -  (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
+- [isabelroses/NS_Store](https://github.com/isabelroses/NS_Store) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (today) -  Apple-like smooth corners for Tailwind CSS.
-- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (1 day ago) - ❄️ Simplify Nix Flakes with the module system
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (3 days ago) - 
-- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (3 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
-- [sugyan/tuisky](https://github.com/sugyan/tuisky) (3 days ago) - 
+- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (1 day ago) -  Apple-like smooth corners for Tailwind CSS.
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (2 days ago) - ❄️ Simplify Nix Flakes with the module system
+- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (4 days ago) - 
+- [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (4 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
+- [sugyan/tuisky](https://github.com/sugyan/tuisky) (4 days ago) - 
 
 
 ### 📊 My GitHub Stats
