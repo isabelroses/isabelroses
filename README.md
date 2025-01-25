@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/NS_Store](https://github.com/isabelroses/NS_Store) -  (1 day ago)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (2 days ago)
+- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (today)
 
 #### 📚 My recent blog posts
 
@@ -35,16 +35,16 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 🌱 My latest projects
 
 - [isabelroses/NS_Store](https://github.com/isabelroses/NS_Store) - 
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) - 
 - [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) - 
 - [isabelroses/pride](https://github.com/isabelroses/pride) - 
 - [isabelroses/memes](https://github.com/isabelroses/memes) - 
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) - 
 
 #### ⭐ Recent Stars
 
 - [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (1 day ago) -  Apple-like smooth corners for Tailwind CSS.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (2 days ago) - ❄️ Simplify Nix Flakes with the module system
-- [isabelroses/easy-hosts](https://github.com/isabelroses/easy-hosts) (4 days ago) - 
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (4 days ago) - 
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (4 days ago) - An open-source network stresser tool but it&#39;s Hatsune Miku
 - [sugyan/tuisky](https://github.com/sugyan/tuisky) (4 days ago) - 
 
