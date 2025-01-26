@@ -18,16 +18,16 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (today)
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (1 day ago)
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
 - [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (2 weeks ago)
-- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (3 weeks ago)
+- [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (4 weeks ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (8 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (10 months ago)
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (today) - 
-- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (today) - 
-- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (1 day ago) -  Apple-like smooth corners for Tailwind CSS.
-- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (2 days ago) - ❄️ Simplify Nix Flakes with the module system
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (4 days ago) - 
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (1 day ago) - 
+- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (1 day ago) - 
+- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (2 days ago) -  Apple-like smooth corners for Tailwind CSS.
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (3 days ago) - ❄️ Simplify Nix Flakes with the module system
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (5 days ago) - 
 
 
 ### 📊 My GitHub Stats
