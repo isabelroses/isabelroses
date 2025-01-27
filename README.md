@@ -34,11 +34,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### 🌱 My latest projects
 
-- [isabelroses/NS_Store](https://github.com/isabelroses/NS_Store) - 
 - [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) - 
 - [isabelroses/pride](https://github.com/isabelroses/pride) - 
 - [isabelroses/memes](https://github.com/isabelroses/memes) - 
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) - 
+- [isabelroses/snippets](https://github.com/isabelroses/snippets) - 
 
 #### ⭐ Recent Stars
 
