@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (today) - Nix related artwork
 - [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (2 days ago) - 
 - [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (2 days ago) - 
 - [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (3 days ago) -  Apple-like smooth corners for Tailwind CSS.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (4 days ago) - ❄️ Simplify Nix Flakes with the module system
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) (6 days ago) - 
 
 
 ### 📊 My GitHub Stats
