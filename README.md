@@ -22,7 +22,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (1 day ago)
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
