@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (today)
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (1 day ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (1 day ago) - Nix related artwork
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (3 days ago) - 
-- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (3 days ago) - 
-- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (4 days ago) -  Apple-like smooth corners for Tailwind CSS.
-- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (5 days ago) - ❄️ Simplify Nix Flakes with the module system
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (2 days ago) - Nix related artwork
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (4 days ago) - 
+- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (4 days ago) - 
+- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (5 days ago) -  Apple-like smooth corners for Tailwind CSS.
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (6 days ago) - ❄️ Simplify Nix Flakes with the module system
 
 
 ### 📊 My GitHub Stats
