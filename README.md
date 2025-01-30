@@ -18,15 +18,15 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (2 weeks ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (3 weeks ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 month ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (8 months ago)
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (2 days ago) - Nix related artwork
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (4 days ago) - 
-- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (4 days ago) - 
-- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (5 days ago) -  Apple-like smooth corners for Tailwind CSS.
-- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (6 days ago) - ❄️ Simplify Nix Flakes with the module system
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (3 days ago) - Nix related artwork
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (5 days ago) - 
+- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (5 days ago) - 
+- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (6 days ago) -  Apple-like smooth corners for Tailwind CSS.
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (1 week ago) - ❄️ Simplify Nix Flakes with the module system
 
 
 ### 📊 My GitHub Stats
