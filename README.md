@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (3 days ago) - Nix related artwork
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (5 days ago) - 
-- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (5 days ago) - 
-- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (6 days ago) -  Apple-like smooth corners for Tailwind CSS.
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (4 days ago) - Nix related artwork
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (6 days ago) - 
+- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (6 days ago) - 
+- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (1 week ago) -  Apple-like smooth corners for Tailwind CSS.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) (1 week ago) - ❄️ Simplify Nix Flakes with the module system
 
 
