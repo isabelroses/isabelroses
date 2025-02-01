@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [uncenter/flake](https://github.com/uncenter/flake) - ❄️ Overcomplicated Nix system configurations. (today)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [uncenter/flake](https://github.com/uncenter/flake) - ❄️ Overcomplicated Nix system configurations. (1 day ago)
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (1 day ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [NixOS/branding](https://github.com/NixOS/branding) (today) - The home of the NixOS branding guide and media kit.
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (4 days ago) - Nix related artwork
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (6 days ago) - 
-- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (6 days ago) - 
+- [NixOS/branding](https://github.com/NixOS/branding) (1 day ago) - The home of the NixOS branding guide and media kit.
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (5 days ago) - Nix related artwork
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (1 week ago) - 
+- [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (1 week ago) - 
 - [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (1 week ago) -  Apple-like smooth corners for Tailwind CSS.
 
 
