@@ -19,10 +19,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [uncenter/flake](https://github.com/uncenter/flake) - ❄️ Overcomplicated Nix system configurations. (1 day ago)
 - [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (1 day ago)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
