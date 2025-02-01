@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (today) - Yet another Discord mod
 - [NixOS/branding](https://github.com/NixOS/branding) (1 day ago) - The home of the NixOS branding guide and media kit.
 - [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (5 days ago) - Nix related artwork
 - [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (1 week ago) - 
 - [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (1 week ago) - 
-- [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) (1 week ago) -  Apple-like smooth corners for Tailwind CSS.
 
 
 ### 📊 My GitHub Stats
