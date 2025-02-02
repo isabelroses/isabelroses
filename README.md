@@ -21,7 +21,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/licensenow](https://github.com/isabelroses/licensenow) - quickly generate a licence (1 day ago)
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (1 day ago)
 - [tgirlcloud/NS_Store](https://github.com/tgirlcloud/NS_Store) -  (1 day ago)
 
 #### 📚 My recent blog posts
