@@ -20,9 +20,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding. (today)
 
 #### 📚 My recent blog posts
 
