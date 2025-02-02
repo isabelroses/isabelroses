@@ -18,17 +18,17 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [tgirlcloud/NS_Store](https://github.com/tgirlcloud/NS_Store) -  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [isabelroses/licensenow](https://github.com/isabelroses/licensenow) - quickly generate a licence (today)
-- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
+- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/licensenow](https://github.com/isabelroses/licensenow) - quickly generate a licence (1 day ago)
+- [tgirlcloud/NS_Store](https://github.com/tgirlcloud/NS_Store) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
 - [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (3 weeks ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 month ago)
-- [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (7 months ago)
+- [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (8 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (8 months ago)
 - [Writing a Neovim plugin](https://isabelroses.com/blog/writing-a-neovim-plugin-6) (10 months ago)
 
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (today) - Yet another Discord mod
-- [NixOS/branding](https://github.com/NixOS/branding) (1 day ago) - The home of the NixOS branding guide and media kit.
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (5 days ago) - Nix related artwork
+- [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (1 day ago) - Yet another Discord mod
+- [NixOS/branding](https://github.com/NixOS/branding) (2 days ago) - The home of the NixOS branding guide and media kit.
+- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (6 days ago) - Nix related artwork
 - [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (1 week ago) - 
 - [PawiX25/PeerPictionary](https://github.com/PawiX25/PeerPictionary) (1 week ago) - 
 
