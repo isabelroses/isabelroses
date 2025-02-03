@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (today) - 
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) (1 day ago) - A unified NixOS tooling replacement for nixos-* utilities
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (2 days ago) - Yet another Discord mod
 - [NixOS/branding](https://github.com/NixOS/branding) (3 days ago) - The home of the NixOS branding guide and media kit.
 - [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (1 week ago) - Nix related artwork
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) (1 week ago) - 
 
 
 ### 📊 My GitHub Stats
