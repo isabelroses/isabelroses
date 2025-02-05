@@ -19,7 +19,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (3 days ago)
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) -  (3 days ago)
 - [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding. (3 days ago)
