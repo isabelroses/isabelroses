@@ -18,15 +18,15 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (3 days ago)
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake. (3 days ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (4 days ago)
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake. (4 days ago)
 
 #### 📚 My recent blog posts
 
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (3 weeks ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (4 weeks ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 month ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (8 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (8 months ago)
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (2 days ago) - 
-- [water-sucks/nixos](https://github.com/water-sucks/nixos) (3 days ago) - A unified NixOS tooling replacement for nixos-* utilities
-- [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (4 days ago) - Yet another Discord mod
-- [NixOS/branding](https://github.com/NixOS/branding) (5 days ago) - The home of the NixOS branding guide and media kit.
+- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (3 days ago) - 
+- [water-sucks/nixos](https://github.com/water-sucks/nixos) (4 days ago) - A unified NixOS tooling replacement for nixos-* utilities
+- [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (5 days ago) - Yet another Discord mod
+- [NixOS/branding](https://github.com/NixOS/branding) (6 days ago) - The home of the NixOS branding guide and media kit.
 - [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (1 week ago) - Nix related artwork
 
 
