@@ -18,10 +18,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
-- [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding. (5 days ago)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (5 days ago)
 
 #### 📚 My recent blog posts
