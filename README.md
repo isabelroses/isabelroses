@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [umami-software/umami](https://github.com/umami-software/umami) (today) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (4 days ago) - 
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) (5 days ago) - A unified NixOS tooling replacement for nixos-* utilities
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (6 days ago) - Yet another Discord mod
 - [NixOS/branding](https://github.com/NixOS/branding) (1 week ago) - The home of the NixOS branding guide and media kit.
-- [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (1 week ago) - Nix related artwork
 
 
 ### 📊 My GitHub Stats
