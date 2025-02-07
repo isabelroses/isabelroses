@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (4 days ago)
-- [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding. (4 days ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
+- [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding. (5 days ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (5 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (3 days ago) - 
-- [water-sucks/nixos](https://github.com/water-sucks/nixos) (4 days ago) - A unified NixOS tooling replacement for nixos-* utilities
-- [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (5 days ago) - Yet another Discord mod
-- [NixOS/branding](https://github.com/NixOS/branding) (6 days ago) - The home of the NixOS branding guide and media kit.
+- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (4 days ago) - 
+- [water-sucks/nixos](https://github.com/water-sucks/nixos) (5 days ago) - A unified NixOS tooling replacement for nixos-* utilities
+- [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (6 days ago) - Yet another Discord mod
+- [NixOS/branding](https://github.com/NixOS/branding) (1 week ago) - The home of the NixOS branding guide and media kit.
 - [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) (1 week ago) - Nix related artwork
 
 
