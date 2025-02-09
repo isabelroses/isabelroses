@@ -22,7 +22,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (today)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
 
 #### 📚 My recent blog posts
 
