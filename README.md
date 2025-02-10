@@ -18,15 +18,15 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
-- [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
+- [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS (1 day ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
-- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (2 days ago)
+- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (3 days ago)
 - [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (1 month ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 month ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (8 months ago)
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [umami-software/umami](https://github.com/umami-software/umami) (2 days ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (6 days ago) - 
+- [umami-software/umami](https://github.com/umami-software/umami) (3 days ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (1 week ago) - 
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) (1 week ago) - A unified NixOS tooling replacement for nixos-* utilities
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (1 week ago) - Yet another Discord mod
 - [NixOS/branding](https://github.com/NixOS/branding) (1 week ago) - The home of the NixOS branding guide and media kit.
