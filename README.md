@@ -20,9 +20,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
 - [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (today) - A feature-rich command-line audio/video downloader
 - [umami-software/umami](https://github.com/umami-software/umami) (4 days ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (1 week ago) - 
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) (1 week ago) - A unified NixOS tooling replacement for nixos-* utilities
 - [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (1 week ago) - Yet another Discord mod
-- [NixOS/branding](https://github.com/NixOS/branding) (1 week ago) - The home of the NixOS branding guide and media kit.
 
 
 ### 📊 My GitHub Stats
