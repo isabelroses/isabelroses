@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (today) - TUI for Jujutsu/jj
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (1 day ago) - A feature-rich command-line audio/video downloader
 - [umami-software/umami](https://github.com/umami-software/umami) (5 days ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (1 week ago) - 
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) (1 week ago) - A unified NixOS tooling replacement for nixos-* utilities
-- [moonlight-mod/moonlight](https://github.com/moonlight-mod/moonlight) (1 week ago) - Yet another Discord mod
 
 
 ### 📊 My GitHub Stats
