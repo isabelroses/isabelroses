@@ -19,14 +19,14 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake. (1 day ago)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake. (2 days ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (2 days ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (2 days ago)
 
 #### 📚 My recent blog posts
 
-- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (5 days ago)
+- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (6 days ago)
 - [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (1 month ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 month ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (8 months ago)
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (today) - TUI for Jujutsu/jj
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (1 day ago) - A feature-rich command-line audio/video downloader
-- [umami-software/umami](https://github.com/umami-software/umami) (5 days ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (1 day ago) - TUI for Jujutsu/jj
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (2 days ago) - A feature-rich command-line audio/video downloader
+- [umami-software/umami](https://github.com/umami-software/umami) (6 days ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (1 week ago) - 
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) (1 week ago) - A unified NixOS tooling replacement for nixos-* utilities
 
