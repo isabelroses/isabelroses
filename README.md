@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (today) - 🪪 User identification, authentication, and authorization for Axum.
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (2 days ago) - TUI for Jujutsu/jj
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (3 days ago) - A feature-rich command-line audio/video downloader
 - [umami-software/umami](https://github.com/umami-software/umami) (1 week ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (1 week ago) - 
-- [water-sucks/nixos](https://github.com/water-sucks/nixos) (1 week ago) - A unified NixOS tooling replacement for nixos-* utilities
 
 
 ### 📊 My GitHub Stats
