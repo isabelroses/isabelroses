@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (3 days ago)
-- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake. (3 days ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (4 days ago)
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake. (4 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (today) - 🪪 User identification, authentication, and authorization for Axum.
-- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (2 days ago) - TUI for Jujutsu/jj
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (3 days ago) - A feature-rich command-line audio/video downloader
+- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (1 day ago) - 🪪 User identification, authentication, and authorization for Axum.
+- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (3 days ago) - TUI for Jujutsu/jj
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (4 days ago) - A feature-rich command-line audio/video downloader
 - [umami-software/umami](https://github.com/umami-software/umami) (1 week ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (1 week ago) - 
 
