@@ -27,7 +27,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 📚 My recent blog posts
 
 - [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (1 week ago)
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (1 month ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (1 week ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 month ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (8 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (8 months ago)
