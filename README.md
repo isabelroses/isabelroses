@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 
 #### 📚 My recent blog posts
 
