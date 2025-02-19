@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) (today) - An implementation of the Bottom encoding format in Nix
 - [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (5 days ago) - 🪪 User identification, authentication, and authorization for Axum.
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (1 week ago) - TUI for Jujutsu/jj
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (1 week ago) - A feature-rich command-line audio/video downloader
 - [umami-software/umami](https://github.com/umami-software/umami) (1 week ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (2 weeks ago) - 
 
 
 ### 📊 My GitHub Stats
