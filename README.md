@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -30,7 +30,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (1 week ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 month ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (8 months ago)
-- [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (8 months ago)
+- [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (4 days ago) - 🪪 User identification, authentication, and authorization for Axum.
-- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (6 days ago) - TUI for Jujutsu/jj
+- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (5 days ago) - 🪪 User identification, authentication, and authorization for Axum.
+- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (1 week ago) - TUI for Jujutsu/jj
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (1 week ago) - A feature-rich command-line audio/video downloader
 - [umami-software/umami](https://github.com/umami-software/umami) (1 week ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [samueldr/nix-is-hard](https://github.com/samueldr/nix-is-hard) (2 weeks ago) - 
