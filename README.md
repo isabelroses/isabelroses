@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/site](https://github.com/tgirlcloud/site) -  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/site](https://github.com/tgirlcloud/site) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) (today) - An implementation of the Bottom encoding format in Nix
-- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (5 days ago) - 🪪 User identification, authentication, and authorization for Axum.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) (today) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) (1 day ago) - An implementation of the Bottom encoding format in Nix
+- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (6 days ago) - 🪪 User identification, authentication, and authorization for Axum.
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (1 week ago) - TUI for Jujutsu/jj
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (1 week ago) - A feature-rich command-line audio/video downloader
-- [umami-software/umami](https://github.com/umami-software/umami) (1 week ago) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 
 ### 📊 My GitHub Stats
