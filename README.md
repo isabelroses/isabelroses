@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) (today) - Multi-tenant Nix Binary Cache
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) (today) - Nix binary cache implemented in rust (maintainer: @Mic92)
+- [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) (today) - A drop-in replacement for nix-serve that is faster and more reliable
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) (1 day ago) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) (2 days ago) - An implementation of the Bottom encoding format in Nix
-- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (1 week ago) - 🪪 User identification, authentication, and authorization for Axum.
-- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (1 week ago) - TUI for Jujutsu/jj
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (1 week ago) - A feature-rich command-line audio/video downloader
 
 
 ### 📊 My GitHub Stats
