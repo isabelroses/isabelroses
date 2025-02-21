@@ -18,16 +18,16 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
 
 #### 📚 My recent blog posts
 
-- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (1 week ago)
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (1 week ago)
+- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (2 weeks ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (2 weeks ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (1 month ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (8 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (9 months ago)
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) (today) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
-- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) (1 day ago) - An implementation of the Bottom encoding format in Nix
-- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (6 days ago) - 🪪 User identification, authentication, and authorization for Axum.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) (1 day ago) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) (2 days ago) - An implementation of the Bottom encoding format in Nix
+- [maxcountryman/axum-login](https://github.com/maxcountryman/axum-login) (1 week ago) - 🪪 User identification, authentication, and authorization for Axum.
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) (1 week ago) - TUI for Jujutsu/jj
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) (1 week ago) - A feature-rich command-line audio/video downloader
 
