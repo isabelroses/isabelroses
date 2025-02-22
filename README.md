@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [zhaofengli/attic](https://github.com/zhaofengli/attic) (today) - Multi-tenant Nix Binary Cache
-- [nix-community/harmonia](https://github.com/nix-community/harmonia) (today) - Nix binary cache implemented in rust (maintainer: @Mic92)
-- [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) (today) - A drop-in replacement for nix-serve that is faster and more reliable
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) (1 day ago) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
-- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) (2 days ago) - An implementation of the Bottom encoding format in Nix
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) (1 day ago) - Multi-tenant Nix Binary Cache
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) (1 day ago) - Nix binary cache implemented in rust (maintainer: @Mic92)
+- [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) (1 day ago) - A drop-in replacement for nix-serve that is faster and more reliable
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) (2 days ago) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) (3 days ago) - An implementation of the Bottom encoding format in Nix
 
 
 ### 📊 My GitHub Stats
