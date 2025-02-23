@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (today) - 🐚 Soothing pastel theme for nushell
 - [tgirlcloud/site](https://github.com/tgirlcloud/site) (1 day ago) - 
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) (2 days ago) - Multi-tenant Nix Binary Cache
 - [nix-community/harmonia](https://github.com/nix-community/harmonia) (2 days ago) - Nix binary cache implemented in rust (maintainer: @Mic92)
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) (2 days ago) - A drop-in replacement for nix-serve that is faster and more reliable
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) (3 days ago) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 
 
 ### 📊 My GitHub Stats
