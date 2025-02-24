@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (today) - 🐚 Soothing pastel theme for nushell
-- [tgirlcloud/site](https://github.com/tgirlcloud/site) (1 day ago) - 
-- [zhaofengli/attic](https://github.com/zhaofengli/attic) (2 days ago) - Multi-tenant Nix Binary Cache
-- [nix-community/harmonia](https://github.com/nix-community/harmonia) (2 days ago) - Nix binary cache implemented in rust (maintainer: @Mic92)
-- [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) (2 days ago) - A drop-in replacement for nix-serve that is faster and more reliable
+- [comfysage/thistle.nvim](https://github.com/comfysage/thistle.nvim) (1 day ago) - 
+- [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (1 day ago) - 🐚 Soothing pastel theme for nushell
+- [tgirlcloud/site](https://github.com/tgirlcloud/site) (2 days ago) - 
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) (3 days ago) - Multi-tenant Nix Binary Cache
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) (3 days ago) - Nix binary cache implemented in rust (maintainer: @Mic92)
 
 
 ### 📊 My GitHub Stats
