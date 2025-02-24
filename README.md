@@ -21,8 +21,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
 
 #### 📚 My recent blog posts
 
