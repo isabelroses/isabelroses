@@ -18,9 +18,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [comfysage/thistle.nvim](https://github.com/comfysage/thistle.nvim) (1 day ago) - 
+- [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (today) - Cache Nix derivations on GitHub Actions with Attic.
+- [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) (1 day ago) - :mushroom: a simple and opinionated development plugin.
 - [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (1 day ago) - 🐚 Soothing pastel theme for nushell
 - [tgirlcloud/site](https://github.com/tgirlcloud/site) (2 days ago) - 
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) (3 days ago) - Multi-tenant Nix Binary Cache
-- [nix-community/harmonia](https://github.com/nix-community/harmonia) (3 days ago) - Nix binary cache implemented in rust (maintainer: @Mic92)
 
 
 ### 📊 My GitHub Stats
