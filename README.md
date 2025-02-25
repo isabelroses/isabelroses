@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) (today) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (1 day ago) - 
 - [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (1 day ago) - Cache Nix derivations on GitHub Actions with Attic.
 - [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) (2 days ago) - :mushroom: a simple and opinionated development plugin.
 - [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (2 days ago) - 🐚 Soothing pastel theme for nushell
-- [tgirlcloud/site](https://github.com/tgirlcloud/site) (3 days ago) - 
 
 
 ### 📊 My GitHub Stats
