@@ -18,10 +18,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 day ago)
+- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 
 #### 📚 My recent blog posts
