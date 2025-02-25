@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (today)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 day ago)
+- [tgirlcloud/beapkgs](https://github.com/tgirlcloud/beapkgs) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (today) - 
-- [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (today) - Cache Nix derivations on GitHub Actions with Attic.
-- [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) (1 day ago) - :mushroom: a simple and opinionated development plugin.
-- [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (1 day ago) - 🐚 Soothing pastel theme for nushell
-- [tgirlcloud/site](https://github.com/tgirlcloud/site) (2 days ago) - 
+- [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (1 day ago) - 
+- [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (1 day ago) - Cache Nix derivations on GitHub Actions with Attic.
+- [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) (2 days ago) - :mushroom: a simple and opinionated development plugin.
+- [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (2 days ago) - 🐚 Soothing pastel theme for nushell
+- [tgirlcloud/site](https://github.com/tgirlcloud/site) (3 days ago) - 
 
 
 ### 📊 My GitHub Stats
