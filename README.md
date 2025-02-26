@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (today)
+- [tgirlcloud/site](https://github.com/tgirlcloud/site) -  (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) (today) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
-- [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (1 day ago) - 
-- [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (1 day ago) - Cache Nix derivations on GitHub Actions with Attic.
-- [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) (2 days ago) - :mushroom: a simple and opinionated development plugin.
-- [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (2 days ago) - 🐚 Soothing pastel theme for nushell
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) (1 day ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
+- [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (2 days ago) - 
+- [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (2 days ago) - Cache Nix derivations on GitHub Actions with Attic.
+- [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) (3 days ago) - :mushroom: a simple and opinionated development plugin.
+- [nik-rev/catppuccin-nushell](https://github.com/nik-rev/catppuccin-nushell) (3 days ago) - 🐚 Soothing pastel theme for nushell
 
 
 ### 📊 My GitHub Stats
