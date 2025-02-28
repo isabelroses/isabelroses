@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (today) - internet, but lighter. fork of ungoogled-chromium
 - [42willow/site](https://github.com/42willow/site) (today) - WIP personal site, from scratch
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) (3 days ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (4 days ago) - 
 - [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (4 days ago) - Cache Nix derivations on GitHub Actions with Attic.
-- [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) (5 days ago) - :mushroom: a simple and opinionated development plugin.
 
 
 ### 📊 My GitHub Stats
