@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
-- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
+- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (2 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (today) - internet, but lighter. fork of ungoogled-chromium
-- [42willow/site](https://github.com/42willow/site) (today) - WIP personal site, from scratch
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) (3 days ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
-- [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (4 days ago) - 
-- [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (4 days ago) - Cache Nix derivations on GitHub Actions with Attic.
+- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (1 day ago) - internet, but lighter. fork of ungoogled-chromium
+- [42willow/site](https://github.com/42willow/site) (1 day ago) - WIP personal site, from scratch
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) (4 days ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
+- [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (5 days ago) - 
+- [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (5 days ago) - Cache Nix derivations on GitHub Actions with Attic.
 
 
 ### 📊 My GitHub Stats
