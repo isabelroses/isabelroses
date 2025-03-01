@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [google/argh](https://github.com/google/argh) (today) - Rust derive-based argument parsing optimized for code size
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (1 day ago) - internet, but lighter. fork of ungoogled-chromium
 - [42willow/site](https://github.com/42willow/site) (1 day ago) - WIP personal site, from scratch
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) (4 days ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (5 days ago) - 
-- [ryanccn/attic-action](https://github.com/ryanccn/attic-action) (5 days ago) - Cache Nix derivations on GitHub Actions with Attic.
 
 
 ### 📊 My GitHub Stats
