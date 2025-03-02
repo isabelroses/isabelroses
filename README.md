@@ -19,10 +19,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (2 days ago)
-- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (2 days ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (2 days ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (3 days ago)
+- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (3 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [google/argh](https://github.com/google/argh) (today) - Rust derive-based argument parsing optimized for code size
-- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (1 day ago) - internet, but lighter. fork of ungoogled-chromium
-- [42willow/site](https://github.com/42willow/site) (1 day ago) - WIP personal site, from scratch
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) (4 days ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
-- [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (5 days ago) - 
+- [google/argh](https://github.com/google/argh) (1 day ago) - Rust derive-based argument parsing optimized for code size
+- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (2 days ago) - internet, but lighter. fork of ungoogled-chromium
+- [42willow/site](https://github.com/42willow/site) (2 days ago) - WIP personal site, from scratch
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) (5 days ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
+- [haileyok/atproto-oauth-golang](https://github.com/haileyok/atproto-oauth-golang) (6 days ago) - 
 
 
 ### 📊 My GitHub Stats
