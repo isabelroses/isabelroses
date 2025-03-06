@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
+- [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 - [isabelroses/jellyfin](https://github.com/isabelroses/jellyfin) - 📺Soothing pastel theme for Jellyfin (4 days ago)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (6 days ago)
 
 #### 📚 My recent blog posts
 
