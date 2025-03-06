@@ -19,10 +19,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/jellyfin](https://github.com/isabelroses/jellyfin) - 📺Soothing pastel theme for Jellyfin (3 days ago)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (5 days ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/jellyfin](https://github.com/isabelroses/jellyfin) - 📺Soothing pastel theme for Jellyfin (4 days ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (6 days ago)
 
 #### 📚 My recent blog posts
 
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [bruits/maudit](https://github.com/bruits/maudit) (3 days ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
-- [google/argh](https://github.com/google/argh) (4 days ago) - Rust derive-based argument parsing optimized for code size
-- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (5 days ago) - internet, but lighter. fork of ungoogled-chromium
-- [42willow/site](https://github.com/42willow/site) (5 days ago) - WIP personal site
+- [bruits/maudit](https://github.com/bruits/maudit) (4 days ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
+- [google/argh](https://github.com/google/argh) (5 days ago) - Rust derive-based argument parsing optimized for code size
+- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (6 days ago) - internet, but lighter. fork of ungoogled-chromium
+- [42willow/site](https://github.com/42willow/site) (6 days ago) - WIP personal site
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) (1 week ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 
 
