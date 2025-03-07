@@ -18,16 +18,16 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [everviolet/nix](https://github.com/everviolet/nix) -  (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [comfysage/ivy](https://github.com/comfysage/ivy) -  (1 day ago)
+- [everviolet/nix](https://github.com/everviolet/nix) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
-- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (3 weeks ago)
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (3 weeks ago)
+- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (4 weeks ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (4 weeks ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (2 months ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (9 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (9 months ago)
@@ -42,10 +42,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [bruits/maudit](https://github.com/bruits/maudit) (4 days ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
-- [google/argh](https://github.com/google/argh) (5 days ago) - Rust derive-based argument parsing optimized for code size
-- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (6 days ago) - internet, but lighter. fork of ungoogled-chromium
-- [42willow/site](https://github.com/42willow/site) (6 days ago) - WIP personal site
+- [bruits/maudit](https://github.com/bruits/maudit) (5 days ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
+- [google/argh](https://github.com/google/argh) (6 days ago) - Rust derive-based argument parsing optimized for code size
+- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (1 week ago) - internet, but lighter. fork of ungoogled-chromium
+- [42willow/site](https://github.com/42willow/site) (1 week ago) - WIP personal site
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) (1 week ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 
 
