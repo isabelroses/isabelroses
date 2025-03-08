@@ -19,10 +19,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [everviolet/nix](https://github.com/everviolet/nix) -  (today)
-- [everviolet/ports](https://github.com/everviolet/ports) -  (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (today)
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (1 day ago)
+- [everviolet/ports](https://github.com/everviolet/ports) -  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [everviolet/nix](https://github.com/everviolet/nix) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,8 +42,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [bruits/maudit](https://github.com/bruits/maudit) (5 days ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
-- [google/argh](https://github.com/google/argh) (6 days ago) - Rust derive-based argument parsing optimized for code size
+- [bruits/maudit](https://github.com/bruits/maudit) (6 days ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
+- [google/argh](https://github.com/google/argh) (1 week ago) - Rust derive-based argument parsing optimized for code size
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (1 week ago) - internet, but lighter. fork of ungoogled-chromium
 - [42willow/site](https://github.com/42willow/site) (1 week ago) - WIP personal site
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) (1 week ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
