@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) (today) - a smol tcp/ip stack
 - [bruits/maudit](https://github.com/bruits/maudit) (6 days ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
 - [google/argh](https://github.com/google/argh) (1 week ago) - Rust derive-based argument parsing optimized for code size
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (1 week ago) - internet, but lighter. fork of ungoogled-chromium
 - [42willow/site](https://github.com/42willow/site) (1 week ago) - WIP personal site
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) (1 week ago) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 
 
 ### 📊 My GitHub Stats
