@@ -18,16 +18,16 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [everviolet/ports](https://github.com/everviolet/ports) -  (1 day ago)
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (1 day ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [everviolet/ports](https://github.com/everviolet/ports) -  (2 days ago)
 
 #### 📚 My recent blog posts
 
-- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (4 weeks ago)
-- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (4 weeks ago)
+- [My custom lib.nixosSystem](https://isabelroses.com/blog/custom-lib-nixossystem-11) (1 month ago)
+- [I&#39;m not mad, I&#39;m disappointed](https://isabelroses.com/blog/im-not-mad-im-disappointed-10) (1 month ago)
 - [2024 Wrapped](https://isabelroses.com/blog/2024-wrapped-9) (2 months ago)
 - [Dev dependencies](https://isabelroses.com/blog/nix-shells-8) (9 months ago)
 - [Experimenting with Nix](https://isabelroses.com/blog/experimenting-with-nix-7) (9 months ago)
@@ -42,9 +42,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) (today) - 
-- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) (today) - a smol tcp/ip stack
-- [bruits/maudit](https://github.com/bruits/maudit) (6 days ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) (1 day ago) - 
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) (1 day ago) - a smol tcp/ip stack
+- [bruits/maudit](https://github.com/bruits/maudit) (1 week ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
 - [google/argh](https://github.com/google/argh) (1 week ago) - Rust derive-based argument parsing optimized for code size
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (1 week ago) - internet, but lighter. fork of ungoogled-chromium
 
