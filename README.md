@@ -22,7 +22,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [everviolet/nix](https://github.com/everviolet/nix) -  (today)
+- [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy flake for evergarden (today)
 
 #### 📚 My recent blog posts
 
