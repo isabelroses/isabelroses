@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [everviolet/nix](https://github.com/everviolet/nix) -  (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) (today) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [astro/deadnix](https://github.com/astro/deadnix) (today) - Scan Nix files for dead code
 - [isabelroses/blahaj](https://github.com/isabelroses/blahaj) (1 day ago) - 
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) (1 day ago) - a smol tcp/ip stack
 - [bruits/maudit](https://github.com/bruits/maudit) (1 week ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
-- [google/argh](https://github.com/google/argh) (1 week ago) - Rust derive-based argument parsing optimized for code size
 
 
 ### 📊 My GitHub Stats
