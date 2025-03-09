@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [astro/deadnix](https://github.com/astro/deadnix) (today) - Scan Nix files for dead code
 - [isabelroses/blahaj](https://github.com/isabelroses/blahaj) (1 day ago) - 
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) (1 day ago) - a smol tcp/ip stack
 - [bruits/maudit](https://github.com/bruits/maudit) (1 week ago) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
 - [google/argh](https://github.com/google/argh) (1 week ago) - Rust derive-based argument parsing optimized for code size
-- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) (1 week ago) - internet, but lighter. fork of ungoogled-chromium
 
 
 ### 📊 My GitHub Stats
