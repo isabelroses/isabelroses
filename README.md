@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy flake for evergarden (today)
+- [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy flake for evergarden (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [nikstur/userborn](https://github.com/nikstur/userborn) (today) - Declaratively bear (manage) Linux users and groups
-- [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) (today) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
-- [astro/deadnix](https://github.com/astro/deadnix) (today) - Scan Nix files for dead code
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) (1 day ago) - 
-- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) (1 day ago) - a smol tcp/ip stack
+- [nikstur/userborn](https://github.com/nikstur/userborn) (1 day ago) - Declaratively bear (manage) Linux users and groups
+- [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) (1 day ago) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
+- [astro/deadnix](https://github.com/astro/deadnix) (1 day ago) - Scan Nix files for dead code
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) (2 days ago) - 
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) (2 days ago) - a smol tcp/ip stack
 
 
 ### 📊 My GitHub Stats
