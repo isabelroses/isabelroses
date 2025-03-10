@@ -20,9 +20,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy flake for evergarden (1 day ago)
+- [tgirlcloud/site](https://github.com/tgirlcloud/site) -  (today)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
 - [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 
 #### 📚 My recent blog posts
 
