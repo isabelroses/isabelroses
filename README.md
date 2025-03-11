@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [everviolet/kitty](https://github.com/everviolet/kitty) -  (today)
+- [everviolet/base16](https://github.com/everviolet/base16) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
-- [tgirlcloud/site](https://github.com/tgirlcloud/site) -  (1 day ago)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (2 days ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
+- [everviolet/alacritty](https://github.com/everviolet/alacritty) -  (today)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (today) - Staging repo for development of native port of TypeScript
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (today) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [nikstur/userborn](https://github.com/nikstur/userborn) (2 days ago) - Declaratively bear (manage) Linux users and groups
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) (2 days ago) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [astro/deadnix](https://github.com/astro/deadnix) (2 days ago) - Scan Nix files for dead code
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) (3 days ago) - 
 
 
 ### 📊 My GitHub Stats
