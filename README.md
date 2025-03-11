@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (today) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [nikstur/userborn](https://github.com/nikstur/userborn) (2 days ago) - Declaratively bear (manage) Linux users and groups
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) (2 days ago) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [astro/deadnix](https://github.com/astro/deadnix) (2 days ago) - Scan Nix files for dead code
 - [isabelroses/blahaj](https://github.com/isabelroses/blahaj) (3 days ago) - 
-- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) (3 days ago) - a smol tcp/ip stack
 
 
 ### 📊 My GitHub Stats
