@@ -22,7 +22,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [everviolet/kitty](https://github.com/everviolet/kitty) - cozy evergarden theme for kitty (1 day ago)
+- [isabelroses/userscripts](https://github.com/isabelroses/userscripts) -  (today)
 
 #### 📚 My recent blog posts
 
@@ -34,11 +34,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### 🌱 My latest projects
 
+- [isabelroses/userscripts](https://github.com/isabelroses/userscripts) - 
 - [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) - 
 - [isabelroses/pride](https://github.com/isabelroses/pride) - 
 - [isabelroses/memes](https://github.com/isabelroses/memes) - 
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) - 
-- [isabelroses/snippets](https://github.com/isabelroses/snippets) - 
 
 #### ⭐ Recent Stars
 
