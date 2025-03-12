@@ -19,10 +19,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [everviolet/tmux](https://github.com/everviolet/tmux) -  (1 day ago)
 - [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy flake for evergarden (1 day ago)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 
 #### 📚 My recent blog posts
 
