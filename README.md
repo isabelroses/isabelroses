@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy evergarden theme for nix (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [everviolet/iterm](https://github.com/everviolet/iterm) - cozy evergarden theme for iterm (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [everviolet/kitty](https://github.com/everviolet/kitty) - cozy evergarden theme for kitty (1 day ago)
 
 #### 📚 My recent blog posts
 
