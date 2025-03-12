@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [uutils/findutils](https://github.com/uutils/findutils) (today) - Rust implementation of findutils
+- [uutils/diffutils](https://github.com/uutils/diffutils) (today) - Drop-in replacement of diffutils in Rust
 - [System64fumo/syshud](https://github.com/System64fumo/syshud) (today) - Simple heads up display written in gtkmm 4
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (1 day ago) - Staging repo for development of native port of TypeScript
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (1 day ago) - Create Nilla projects that manage your packages, development shells, systems, and more!
-- [nikstur/userborn](https://github.com/nikstur/userborn) (3 days ago) - Declaratively bear (manage) Linux users and groups
-- [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) (3 days ago) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 
 
 ### 📊 My GitHub Stats
