@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [everviolet/base16](https://github.com/everviolet/base16) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [everviolet/alacritty](https://github.com/everviolet/alacritty) -  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [everviolet/tmux](https://github.com/everviolet/tmux) -  (1 day ago)
+- [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy flake for evergarden (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (today) - Staging repo for development of native port of TypeScript
-- [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (today) - Create Nilla projects that manage your packages, development shells, systems, and more!
-- [nikstur/userborn](https://github.com/nikstur/userborn) (2 days ago) - Declaratively bear (manage) Linux users and groups
-- [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) (2 days ago) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
-- [astro/deadnix](https://github.com/astro/deadnix) (2 days ago) - Scan Nix files for dead code
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (1 day ago) - Staging repo for development of native port of TypeScript
+- [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (1 day ago) - Create Nilla projects that manage your packages, development shells, systems, and more!
+- [nikstur/userborn](https://github.com/nikstur/userborn) (3 days ago) - Declaratively bear (manage) Linux users and groups
+- [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) (3 days ago) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
+- [astro/deadnix](https://github.com/astro/deadnix) (3 days ago) - Scan Nix files for dead code
 
 
 ### 📊 My GitHub Stats
