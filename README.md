@@ -21,8 +21,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy evergarden theme for nix (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
-- [isabelroses/userscripts](https://github.com/isabelroses/userscripts) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
