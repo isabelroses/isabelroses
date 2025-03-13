@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/userscripts](https://github.com/isabelroses/userscripts) -  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
+- [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy evergarden theme for nix (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [uutils/findutils](https://github.com/uutils/findutils) (today) - Rust implementation of findutils
-- [uutils/diffutils](https://github.com/uutils/diffutils) (today) - Drop-in replacement of diffutils in Rust
-- [System64fumo/syshud](https://github.com/System64fumo/syshud) (today) - Simple heads up display written in gtkmm 4
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (1 day ago) - Staging repo for development of native port of TypeScript
-- [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (1 day ago) - Create Nilla projects that manage your packages, development shells, systems, and more!
+- [uutils/findutils](https://github.com/uutils/findutils) (1 day ago) - Rust implementation of findutils
+- [uutils/diffutils](https://github.com/uutils/diffutils) (1 day ago) - Drop-in replacement of diffutils in Rust
+- [System64fumo/syshud](https://github.com/System64fumo/syshud) (1 day ago) - Simple heads up display written in gtkmm 4
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (2 days ago) - Staging repo for development of native port of TypeScript
+- [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (2 days ago) - Create Nilla projects that manage your packages, development shells, systems, and more!
 
 
 ### 📊 My GitHub Stats
