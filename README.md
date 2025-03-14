@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [everviolet/nix](https://github.com/everviolet/nix) - :snowflake: cozy evergarden theme for nix (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [uutils/findutils](https://github.com/uutils/findutils) (1 day ago) - Rust implementation of findutils
-- [uutils/diffutils](https://github.com/uutils/diffutils) (1 day ago) - Drop-in replacement of diffutils in Rust
-- [System64fumo/syshud](https://github.com/System64fumo/syshud) (1 day ago) - Simple heads up display written in gtkmm 4
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (2 days ago) - Staging repo for development of native port of TypeScript
-- [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (2 days ago) - Create Nilla projects that manage your packages, development shells, systems, and more!
+- [uutils/findutils](https://github.com/uutils/findutils) (2 days ago) - Rust implementation of findutils
+- [uutils/diffutils](https://github.com/uutils/diffutils) (2 days ago) - Drop-in replacement of diffutils in Rust
+- [System64fumo/syshud](https://github.com/System64fumo/syshud) (2 days ago) - Simple heads up display written in gtkmm 4
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (3 days ago) - Staging repo for development of native port of TypeScript
+- [nilla-nix/nilla](https://github.com/nilla-nix/nilla) (3 days ago) - Create Nilla projects that manage your packages, development shells, systems, and more!
 
 
 ### 📊 My GitHub Stats
