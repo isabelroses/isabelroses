@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [matze/wastebin](https://github.com/matze/wastebin) (today) - wastebin is a pastebin 📝
+- [faldor20/jj_tui](https://github.com/faldor20/jj_tui) (today) - A TUI for the Jujutsu version control system
 - [fasterthanlime/grit](https://github.com/fasterthanlime/grit) (today) - A little tool so I don&#39;t forget to commit and push or pull changes when switching computers.
 - [uutils/findutils](https://github.com/uutils/findutils) (2 days ago) - Rust implementation of findutils
 - [uutils/diffutils](https://github.com/uutils/diffutils) (2 days ago) - Drop-in replacement of diffutils in Rust
-- [System64fumo/syshud](https://github.com/System64fumo/syshud) (2 days ago) - Simple heads up display written in gtkmm 4
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) (3 days ago) - Staging repo for development of native port of TypeScript
 
 
 ### 📊 My GitHub Stats
