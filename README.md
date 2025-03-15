@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) (today) - Issues found on WSL
 - [matze/wastebin](https://github.com/matze/wastebin) (1 day ago) - wastebin is a pastebin 📝
 - [faldor20/jj_tui](https://github.com/faldor20/jj_tui) (1 day ago) - A TUI for the Jujutsu version control system
 - [fasterthanlime/grit](https://github.com/fasterthanlime/grit) (1 day ago) - A little tool so I don&#39;t forget to commit and push or pull changes when switching computers.
 - [uutils/findutils](https://github.com/uutils/findutils) (3 days ago) - Rust implementation of findutils
-- [uutils/diffutils](https://github.com/uutils/diffutils) (3 days ago) - Drop-in replacement of diffutils in Rust
 
 
 ### 📊 My GitHub Stats
