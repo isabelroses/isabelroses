@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [matze/wastebin](https://github.com/matze/wastebin) (today) - wastebin is a pastebin 📝
-- [faldor20/jj_tui](https://github.com/faldor20/jj_tui) (today) - A TUI for the Jujutsu version control system
-- [fasterthanlime/grit](https://github.com/fasterthanlime/grit) (today) - A little tool so I don&#39;t forget to commit and push or pull changes when switching computers.
-- [uutils/findutils](https://github.com/uutils/findutils) (2 days ago) - Rust implementation of findutils
-- [uutils/diffutils](https://github.com/uutils/diffutils) (2 days ago) - Drop-in replacement of diffutils in Rust
+- [matze/wastebin](https://github.com/matze/wastebin) (1 day ago) - wastebin is a pastebin 📝
+- [faldor20/jj_tui](https://github.com/faldor20/jj_tui) (1 day ago) - A TUI for the Jujutsu version control system
+- [fasterthanlime/grit](https://github.com/fasterthanlime/grit) (1 day ago) - A little tool so I don&#39;t forget to commit and push or pull changes when switching computers.
+- [uutils/findutils](https://github.com/uutils/findutils) (3 days ago) - Rust implementation of findutils
+- [uutils/diffutils](https://github.com/uutils/diffutils) (3 days ago) - Drop-in replacement of diffutils in Rust
 
 
 ### 📊 My GitHub Stats
