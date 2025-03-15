@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (today) - Fediverse API client library for Rust
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (today) - Generate impressive-looking terminal output to look busy when stakeholders walk by
 - [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (today) - 
 - [mattn/bsky](https://github.com/mattn/bsky) (today) - A cli application for bluesky social
 - [microsoft/WSL](https://github.com/microsoft/WSL) (today) - Issues found on WSL
-- [matze/wastebin](https://github.com/matze/wastebin) (1 day ago) - wastebin is a pastebin 📝
 
 
 ### 📊 My GitHub Stats
