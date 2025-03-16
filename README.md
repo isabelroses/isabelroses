@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) -  (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) -  (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (today) - Fediverse API client library for Rust
-- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (today) - Generate impressive-looking terminal output to look busy when stakeholders walk by
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (today) - 
-- [mattn/bsky](https://github.com/mattn/bsky) (today) - A cli application for bluesky social
-- [microsoft/WSL](https://github.com/microsoft/WSL) (today) - Issues found on WSL
+- [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (1 day ago) - Fediverse API client library for Rust
+- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (1 day ago) - Generate impressive-looking terminal output to look busy when stakeholders walk by
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (1 day ago) - 
+- [mattn/bsky](https://github.com/mattn/bsky) (1 day ago) - A cli application for bluesky social
+- [microsoft/WSL](https://github.com/microsoft/WSL) (1 day ago) - Issues found on WSL
 
 
 ### 📊 My GitHub Stats
