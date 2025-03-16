@@ -22,7 +22,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [tgirlcloud/nix-templates](https://github.com/tgirlcloud/nix-templates) -  (today)
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
 
 #### 📚 My recent blog posts
 
