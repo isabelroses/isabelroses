@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix (today)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (today)
 - [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) -  (today)
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot (today)
 
 #### 📚 My recent blog posts
 
@@ -34,7 +34,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### 🌱 My latest projects
 
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - 
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot
 - [isabelroses/userscripts](https://github.com/isabelroses/userscripts) - 
 - [isabelroses/aoc2024-nix](https://github.com/isabelroses/aoc2024-nix) - 
 - [isabelroses/pride](https://github.com/isabelroses/pride) - 
@@ -44,7 +44,7 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (1 day ago) - Fediverse API client library for Rust
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (1 day ago) - Generate impressive-looking terminal output to look busy when stakeholders walk by
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (1 day ago) - 
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (1 day ago) - nixpkgs prs bot
 - [mattn/bsky](https://github.com/mattn/bsky) (1 day ago) - A cli application for bluesky social
 - [microsoft/WSL](https://github.com/microsoft/WSL) (1 day ago) - Issues found on WSL
 
