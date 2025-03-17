@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot (today)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (1 day ago) - Fediverse API client library for Rust
-- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (1 day ago) - Generate impressive-looking terminal output to look busy when stakeholders walk by
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (1 day ago) - nixpkgs prs bot
-- [mattn/bsky](https://github.com/mattn/bsky) (1 day ago) - A cli application for bluesky social
-- [microsoft/WSL](https://github.com/microsoft/WSL) (1 day ago) - Issues found on WSL
+- [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (2 days ago) - Fediverse API client library for Rust
+- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (2 days ago) - Generate impressive-looking terminal output to look busy when stakeholders walk by
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (2 days ago) - nixpkgs prs bot
+- [mattn/bsky](https://github.com/mattn/bsky) (2 days ago) - A cli application for bluesky social
+- [microsoft/WSL](https://github.com/microsoft/WSL) (2 days ago) - Issues found on WSL
 
 
 ### 📊 My GitHub Stats
