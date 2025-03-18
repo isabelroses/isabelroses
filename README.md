@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (today)
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [cleverca22/not-os](https://github.com/cleverca22/not-os) (today) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
-- [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (2 days ago) - Fediverse API client library for Rust
-- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (2 days ago) - Generate impressive-looking terminal output to look busy when stakeholders walk by
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (2 days ago) - nixpkgs prs bot
-- [mattn/bsky](https://github.com/mattn/bsky) (2 days ago) - A cli application for bluesky social
+- [cleverca22/not-os](https://github.com/cleverca22/not-os) (1 day ago) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
+- [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (3 days ago) - Fediverse API client library for Rust
+- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (3 days ago) - Generate impressive-looking terminal output to look busy when stakeholders walk by
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (3 days ago) - nixpkgs prs bot
+- [mattn/bsky](https://github.com/mattn/bsky) (3 days ago) - A cli application for bluesky social
 
 
 ### 📊 My GitHub Stats
