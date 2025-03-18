@@ -20,9 +20,9 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 - [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/izrss](https://github.com/isabelroses/izrss) - An RSS feed reader for the terminal. (1 day ago)
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot (today)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) (today) - A self-hosted dashboard that puts all your feeds in one place
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) (today) - Scan your Rust crate for semver violations.
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) (1 day ago) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (3 days ago) - Fediverse API client library for Rust
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (3 days ago) - Generate impressive-looking terminal output to look busy when stakeholders walk by
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) (3 days ago) - nixpkgs prs bot
 
 
 ### 📊 My GitHub Stats
