@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [comfysage/chai.nvim](https://github.com/comfysage/chai.nvim) (today) - 
 - [glanceapp/glance](https://github.com/glanceapp/glance) (today) - A self-hosted dashboard that puts all your feeds in one place
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) (today) - Scan your Rust crate for semver violations.
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) (1 day ago) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) (3 days ago) - Fediverse API client library for Rust
-- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) (3 days ago) - Generate impressive-looking terminal output to look busy when stakeholders walk by
 
 
 ### 📊 My GitHub Stats
