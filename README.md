@@ -19,10 +19,10 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
-- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (today)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
 - [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (today)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) (today) - AeroSpace is an i3-like tiling window manager for macOS
 - [google/keep-sorted](https://github.com/google/keep-sorted) (1 day ago) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
 - [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) (1 day ago) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [comfysage/chai.nvim](https://github.com/comfysage/chai.nvim) (1 day ago) - 
 - [glanceapp/glance](https://github.com/glanceapp/glance) (1 day ago) - A self-hosted dashboard that puts all your feeds in one place
-- [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) (1 day ago) - Scan your Rust crate for semver violations.
 
 
 ### 📊 My GitHub Stats
