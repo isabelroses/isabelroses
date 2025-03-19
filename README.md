@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
+- [isabelroses/blahaj](https://github.com/isabelroses/blahaj) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (today)
+- [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [isabelroses/website](https://github.com/isabelroses/website) - My amazing website (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [google/keep-sorted](https://github.com/google/keep-sorted) (today) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
-- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) (today) - Rainbow highlighting and intelligent auto-pairs for Neovim
-- [comfysage/chai.nvim](https://github.com/comfysage/chai.nvim) (today) - 
-- [glanceapp/glance](https://github.com/glanceapp/glance) (today) - A self-hosted dashboard that puts all your feeds in one place
-- [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) (today) - Scan your Rust crate for semver violations.
+- [google/keep-sorted](https://github.com/google/keep-sorted) (1 day ago) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
+- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) (1 day ago) - Rainbow highlighting and intelligent auto-pairs for Neovim
+- [comfysage/chai.nvim](https://github.com/comfysage/chai.nvim) (1 day ago) - 
+- [glanceapp/glance](https://github.com/glanceapp/glance) (1 day ago) - A self-hosted dashboard that puts all your feeds in one place
+- [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) (1 day ago) - Scan your Rust crate for semver violations.
 
 
 ### 📊 My GitHub Stats
