@@ -21,8 +21,8 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
 - [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
 
 #### 📚 My recent blog posts
 
