@@ -18,11 +18,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 #### 👷 What am I working on:
 
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (today)
 - [catgardens/chainix](https://github.com/catgardens/chainix) - very POC (today)
-- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (today)
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (today)
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 day ago)
+- [tgirlcloud/pkgs](https://github.com/tgirlcloud/pkgs) -  (1 day ago)
+- [isabelroses/nvim](https://github.com/isabelroses/nvim) - My neovim config (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 
 #### 📚 My recent blog posts
 
@@ -42,11 +42,11 @@ P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github
 
 #### ⭐ Recent Stars
 
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) (today) - AeroSpace is an i3-like tiling window manager for macOS
-- [google/keep-sorted](https://github.com/google/keep-sorted) (1 day ago) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
-- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) (1 day ago) - Rainbow highlighting and intelligent auto-pairs for Neovim
-- [comfysage/chai.nvim](https://github.com/comfysage/chai.nvim) (1 day ago) - 
-- [glanceapp/glance](https://github.com/glanceapp/glance) (1 day ago) - A self-hosted dashboard that puts all your feeds in one place
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) (1 day ago) - AeroSpace is an i3-like tiling window manager for macOS
+- [google/keep-sorted](https://github.com/google/keep-sorted) (2 days ago) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
+- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) (2 days ago) - Rainbow highlighting and intelligent auto-pairs for Neovim
+- [comfysage/chai.nvim](https://github.com/comfysage/chai.nvim) (2 days ago) - 
+- [glanceapp/glance](https://github.com/glanceapp/glance) (2 days ago) - A self-hosted dashboard that puts all your feeds in one place
 
 
 ### 📊 My GitHub Stats
