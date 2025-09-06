@@ -1,7 +1,8 @@
 ### 👋 Hello, I'm Isabel
 
-I am currently studying computer science, as a second year student at Aberystwyth University. My main interests are in the terminal shown by my obsession with nix. Furthermore I am currently learning the programming language golang.
-What do I do with some of my spare time? Well I contribute to a awesome project [Catppuccin](https://github.com/catppuccin/catppuccin).
+I am currently studying computer science, as a third year student at Aberystwyth University. 
+A significant amount of my time goes into being a [Nixpkgs committer](https://github.com/NixOS/org/blob/main/doc/nixpkgs-committers.md#nixpkgs-committers"),
+where I help maintain the Nixpkgs repository.
 
 P.S. Never ask me what's on my todo list, it's up to [@comfysage](https://github.com/comfysage)
 
